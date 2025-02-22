@@ -1,0 +1,1986 @@
+[
+  {
+    "name": "Github-Timeline",
+    "pretty_name": "Github Timeline",
+    "description": "A reverse chronological timeline of repositories that I have created on Github with links to the individual projects",
+    "url": "https://github.com/danielrosehill/Github-Timeline",
+    "is_fork": false,
+    "created_at": "2025-02-22T18:49:30Z"
+  },
+  {
+    "name": "Reddit-Posts",
+    "pretty_name": "Reddit Posts",
+    "description": "Things I've posted on Reddit and which are copied here so that they can be ingested as context for various AI workflows",
+    "url": "https://github.com/danielrosehill/Reddit-Posts",
+    "is_fork": false,
+    "created_at": "2025-02-22T18:30:29Z"
+  },
+  {
+    "name": "OpenWebUI-Macro-Keypad",
+    "pretty_name": "Openwebui Macro Keypad",
+    "description": "WIP idea. Macro keypad config for OpenWebUI shortcuts",
+    "url": "https://github.com/danielrosehill/OpenWebUI-Macro-Keypad",
+    "is_fork": false,
+    "created_at": "2025-02-20T23:56:35Z"
+  },
+  {
+    "name": "OpenWebUI-Prompt-Library",
+    "pretty_name": "Openwebui Prompt Library",
+    "description": "A selection of prompts designed for use with Open Web UI (rather than conventional prompts, they're more useful for steering existing conversations)",
+    "url": "https://github.com/danielrosehill/OpenWebUI-Prompt-Library",
+    "is_fork": false,
+    "created_at": "2025-02-19T18:26:47Z"
+  },
+  {
+    "name": "Two-AIs-Talk",
+    "pretty_name": "Two Ais Talk",
+    "description": "Just a ridiculous experiment I have to try out at least once",
+    "url": "https://github.com/danielrosehill/Two-AIs-Talk",
+    "is_fork": false,
+    "created_at": "2025-02-18T19:41:42Z"
+  },
+  {
+    "name": "open-webui",
+    "pretty_name": "Open Webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "url": "https://github.com/danielrosehill/open-webui",
+    "is_fork": true,
+    "created_at": "2025-02-18T17:58:09Z"
+  },
+  {
+    "name": "System-Prompt-Generation-Agent-Configs",
+    "pretty_name": "System Prompt Generation Agent Configs",
+    "description": "A collection of system prompts for agents instructed to generate or edit system prompts for other AI agents (yes, you read that right!)",
+    "url": "https://github.com/danielrosehill/System-Prompt-Generation-Agent-Configs",
+    "is_fork": false,
+    "created_at": "2025-02-17T18:41:06Z"
+  },
+  {
+    "name": "Snap-It",
+    "pretty_name": "Snap It",
+    "description": "Simple GUI for taking on-demand Snapper snapshots",
+    "url": "https://github.com/danielrosehill/Snap-It",
+    "is_fork": false,
+    "created_at": "2025-02-17T11:30:47Z"
+  },
+  {
+    "name": "Linux-CUAs",
+    "pretty_name": "Linux Cuas",
+    "description": "List of a few computer user agents (CUAs) with support for Linux",
+    "url": "https://github.com/danielrosehill/Linux-CUAs",
+    "is_fork": false,
+    "created_at": "2025-02-17T09:32:05Z"
+  },
+  {
+    "name": "Cline-Roo-Code-Repo-Template",
+    "pretty_name": "Cline Roo Code Repo Template",
+    "description": "Repo template for Cline / Roo Code AI dev with my docs-as-prompts approach!",
+    "url": "https://github.com/danielrosehill/Cline-Roo-Code-Repo-Template",
+    "is_fork": false,
+    "created_at": "2025-02-16T07:14:59Z"
+  },
+  {
+    "name": "AI-Assistants",
+    "pretty_name": "Artificial Intelligence Assistants",
+    "description": "My useful, sprawling and only slightly crazy network of AI assistants for ... anything and everything",
+    "url": "https://github.com/danielrosehill/AI-Assistants",
+    "is_fork": false,
+    "created_at": "2025-02-16T06:17:12Z"
+  },
+  {
+    "name": "RooCode-Mode-Prompts",
+    "pretty_name": "Roocode Mode Prompts",
+    "description": "Some custom mode-setting system prompts for Roo Code",
+    "url": "https://github.com/danielrosehill/RooCode-Mode-Prompts",
+    "is_fork": false,
+    "created_at": "2025-02-15T22:06:05Z"
+  },
+  {
+    "name": "Github-Repo-Pruner",
+    "pretty_name": "Github Repo Pruner",
+    "description": "Helps to discard old repositories from a local filesystem (for Linux)",
+    "url": "https://github.com/danielrosehill/Github-Repo-Pruner",
+    "is_fork": false,
+    "created_at": "2025-02-15T19:32:20Z"
+  },
+  {
+    "name": "Homebox-Ideas",
+    "pretty_name": "Homebox Ideas",
+    "description": "Tracking repo for some ideas for improving Homebox that I'm going to try develop!",
+    "url": "https://github.com/danielrosehill/Homebox-Ideas",
+    "is_fork": false,
+    "created_at": "2025-02-15T18:23:01Z"
+  },
+  {
+    "name": "Awesome-AI-Agents-And-Assistants",
+    "pretty_name": "Awesome Artificial Intelligence Agents And Assistants",
+    "description": "An ecosystem map of the AI agent and assistant building landscape in Feb 2025",
+    "url": "https://github.com/danielrosehill/Awesome-AI-Agents-And-Assistants",
+    "is_fork": false,
+    "created_at": "2025-02-14T18:51:44Z"
+  },
+  {
+    "name": "Friendly-AI-Exploration-Bot",
+    "pretty_name": "Friendly Artificial Intelligence Exploration Bot",
+    "description": "Configuration for an instructional tool for inquisitive AI students",
+    "url": "https://github.com/danielrosehill/Friendly-AI-Exploration-Bot",
+    "is_fork": false,
+    "created_at": "2025-02-14T14:27:34Z"
+  },
+  {
+    "name": "RAG-Markdown-Loader",
+    "pretty_name": "Retrieval Augmented Generation Markdown Loader",
+    "description": "Loads markdown documents into a folder",
+    "url": "https://github.com/danielrosehill/RAG-Markdown-Loader",
+    "is_fork": false,
+    "created_at": "2025-02-13T16:21:41Z"
+  },
+  {
+    "name": "Awesome-AI-Subreddits",
+    "pretty_name": "Awesome Artificial Intelligence Subreddits",
+    "description": "Subreddits discussing AI related things!",
+    "url": "https://github.com/danielrosehill/Awesome-AI-Subreddits",
+    "is_fork": false,
+    "created_at": "2025-02-13T12:19:44Z"
+  },
+  {
+    "name": "Personal-RAG-Agent-Workflow",
+    "pretty_name": "Personal Retrieval Augmented Generation Agent Workflow",
+    "description": "AI workflows for building personal RAG pipelines with interviewing agents",
+    "url": "https://github.com/danielrosehill/Personal-RAG-Agent-Workflow",
+    "is_fork": false,
+    "created_at": "2025-02-12T11:15:00Z"
+  },
+  {
+    "name": "RAG-API-SDK-Docs-Pipeline",
+    "pretty_name": "Retrieval Augmented Generation Api Sdk Docs Pipeline",
+    "description": "Pipeline for gathering useful API and SDK docs for ingestion into a RAG pipeline (for grounding)",
+    "url": "https://github.com/danielrosehill/RAG-API-SDK-Docs-Pipeline",
+    "is_fork": false,
+    "created_at": "2025-02-11T01:03:19Z"
+  },
+  {
+    "name": "AI-Interview-Workflow-V2",
+    "pretty_name": "Artificial Intelligence Interview Workflow V2",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/AI-Interview-Workflow-V2",
+    "is_fork": false,
+    "created_at": "2025-02-09T10:25:20Z"
+  },
+  {
+    "name": "LLM-Max-Token-Length-0225",
+    "pretty_name": "Large Language Model Max Token Length 0225",
+    "description": "A plot showing the evolution of the max output token length by major LLMs, Feb 2025",
+    "url": "https://github.com/danielrosehill/LLM-Max-Token-Length-0225",
+    "is_fork": false,
+    "created_at": "2025-02-08T16:15:33Z"
+  },
+  {
+    "name": "Open-That-Repo",
+    "pretty_name": "Open That Repo",
+    "description": "Utility for quickly opening a Github repo on your computer",
+    "url": "https://github.com/danielrosehill/Open-That-Repo",
+    "is_fork": false,
+    "created_at": "2025-02-07T16:19:21Z"
+  },
+  {
+    "name": "AI-Job-Search-Assistant-Workflow",
+    "pretty_name": "Artificial Intelligence Job Search Assistant Workflow",
+    "description": "A chained agent workflow for job hunters (presented as a model)",
+    "url": "https://github.com/danielrosehill/AI-Job-Search-Assistant-Workflow",
+    "is_fork": false,
+    "created_at": "2025-02-07T13:30:56Z"
+  },
+  {
+    "name": "Home-Assistant-Smoke-Alarm-Config",
+    "pretty_name": "Home Assistant Smoke Alarm Config",
+    "description": "Documentation and code samples for smoke alarm monitoring in HA",
+    "url": "https://github.com/danielrosehill/Home-Assistant-Smoke-Alarm-Config",
+    "is_fork": false,
+    "created_at": "2025-02-06T17:23:37Z"
+  },
+  {
+    "name": "Israel-Preparedness-Guidelines-AI-Assistant",
+    "pretty_name": "Israel Preparedness Guidelines Artificial Intelligence Assistant",
+    "description": "AI assistant configuration for proviidng Home Front Command guidelines",
+    "url": "https://github.com/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant",
+    "is_fork": false,
+    "created_at": "2025-02-05T22:01:41Z"
+  },
+  {
+    "name": "Israel-To-ROW-Salary-Converter-V2",
+    "pretty_name": "Israel To Row Salary Converter V2",
+    "description": "V2 of Israel to ROW salary conversion utility (Streamlit)",
+    "url": "https://github.com/danielrosehill/Israel-To-ROW-Salary-Converter-V2",
+    "is_fork": false,
+    "created_at": "2025-02-05T20:03:57Z"
+  },
+  {
+    "name": "Israeli-Google-Drive-Accounting-Doc-Router",
+    "pretty_name": "Israeli Google Drive Accounting Doc Router",
+    "description": "Routes accounting documents through Google Drive",
+    "url": "https://github.com/danielrosehill/Israeli-Google-Drive-Accounting-Doc-Router",
+    "is_fork": false,
+    "created_at": "2025-02-05T19:21:15Z"
+  },
+  {
+    "name": "Google-Drive-Folder-Scaffolding-Builder",
+    "pretty_name": "Google Drive Folder Scaffolding Builder",
+    "description": "Builds date/year folder scaffolding in Drive folders (with App Scripts)",
+    "url": "https://github.com/danielrosehill/Google-Drive-Folder-Scaffolding-Builder",
+    "is_fork": false,
+    "created_at": "2025-02-05T17:29:31Z"
+  },
+  {
+    "name": "Dual-WhatsApp-Linux-Desktop",
+    "pretty_name": "Dual Whatsapp Linux Desktop",
+    "description": "Dual WA client for the Linux desktop (AI generated)",
+    "url": "https://github.com/danielrosehill/Dual-WhatsApp-Linux-Desktop",
+    "is_fork": false,
+    "created_at": "2025-02-03T17:09:57Z"
+  },
+  {
+    "name": "Cline-Website-Creation-Demo",
+    "pretty_name": "Cline Website Creation Demo",
+    "description": "Demonstration project for YouTube using referred prompts for development",
+    "url": "https://github.com/danielrosehill/Cline-Website-Creation-Demo",
+    "is_fork": false,
+    "created_at": "2025-02-03T17:03:37Z"
+  },
+  {
+    "name": "Agentic-Context-Development-Interview-Demo",
+    "pretty_name": "Agentic Context Development Interview Demo",
+    "description": "Demonstration modelling how a chained LLM agent workflow could be used to expedite the generation of personal contextual data for personalised LLM experiences and personal RAG development",
+    "url": "https://github.com/danielrosehill/Agentic-Context-Development-Interview-Demo",
+    "is_fork": false,
+    "created_at": "2025-02-03T17:01:23Z"
+  },
+  {
+    "name": "AI-Generated-Projects-Index",
+    "pretty_name": "Artificial Intelligence Generated Projects Index",
+    "description": "Index of development projects that were partially or fully developed using AI",
+    "url": "https://github.com/danielrosehill/AI-Generated-Projects-Index",
+    "is_fork": false,
+    "created_at": "2025-02-01T10:58:21Z"
+  },
+  {
+    "name": "NFC-Reader-Writer-App",
+    "pretty_name": "Nfc Reader Writer App",
+    "description": "Desktop NFC reader/writer GUI for the ACR1252U (validated with NTAG213 on Linux)",
+    "url": "https://github.com/danielrosehill/NFC-Reader-Writer-App",
+    "is_fork": false,
+    "created_at": "2025-02-01T09:14:04Z"
+  },
+  {
+    "name": "Home-Assistant-Israel-Dashboards",
+    "pretty_name": "Home Assistant Israel Dashboards",
+    "description": "HA dashboards with Israel-specifc entities",
+    "url": "https://github.com/danielrosehill/Home-Assistant-Israel-Dashboards",
+    "is_fork": false,
+    "created_at": "2025-01-31T15:39:43Z"
+  },
+  {
+    "name": "Weird-AI-Bots",
+    "pretty_name": "Weird Artificial Intelligence Bots",
+    "description": "Some configurations for offbeat AI roleplay characters just for fun",
+    "url": "https://github.com/danielrosehill/Weird-AI-Bots",
+    "is_fork": false,
+    "created_at": "2025-01-31T01:09:50Z"
+  },
+  {
+    "name": "Home-Assistant-YAML-Snippets",
+    "pretty_name": "Home Assistant Yaml Snippets",
+    "description": "Code snippets for Home Assistant dashboard elements",
+    "url": "https://github.com/danielrosehill/Home-Assistant-YAML-Snippets",
+    "is_fork": false,
+    "created_at": "2025-01-30T15:16:09Z"
+  },
+  {
+    "name": "HA-Shabbat-Dashboard-0125",
+    "pretty_name": "Home Assistant Shabbat Dashboard 0125",
+    "description": "Simple designed Home Assistant dashboard for Shabbat / Yom Tov times",
+    "url": "https://github.com/danielrosehill/HA-Shabbat-Dashboard-0125",
+    "is_fork": false,
+    "created_at": "2025-01-30T09:38:34Z"
+  },
+  {
+    "name": "Assistant-Config-Editor",
+    "pretty_name": "Assistant Config Editor",
+    "description": "Streamlit web UI for editing assistant configuration texts",
+    "url": "https://github.com/danielrosehill/Assistant-Config-Editor",
+    "is_fork": false,
+    "created_at": "2025-01-28T23:59:59Z"
+  },
+  {
+    "name": "LLM-Assistants-Web-Library",
+    "pretty_name": "Large Language Model Assistants Web Library",
+    "description": "A web UI for open-sourcing my assistant configurations (WIP)",
+    "url": "https://github.com/danielrosehill/LLM-Assistants-Web-Library",
+    "is_fork": false,
+    "created_at": "2025-01-28T22:07:00Z"
+  },
+  {
+    "name": "Personalised-AI-Idea",
+    "pretty_name": "Personalised Artificial Intelligence Idea",
+    "description": "Some updated thoughts and sketches for creating personalised AI systems",
+    "url": "https://github.com/danielrosehill/Personalised-AI-Idea",
+    "is_fork": false,
+    "created_at": "2025-01-28T17:11:06Z"
+  },
+  {
+    "name": "AI-Assistant-Template",
+    "pretty_name": "Artificial Intelligence Assistant Template",
+    "description": "Template repository for version controlling AI assistant configurations (and associated elements like context data)",
+    "url": "https://github.com/danielrosehill/AI-Assistant-Template",
+    "is_fork": false,
+    "created_at": "2025-01-27T12:40:04Z"
+  },
+  {
+    "name": "AI-Assistants-Index",
+    "pretty_name": "Artificial Intelligence Assistants Index",
+    "description": "Indexing repository nesting links to standalone repositories containing configurations for AI assistants & agents",
+    "url": "https://github.com/danielrosehill/AI-Assistants-Index",
+    "is_fork": false,
+    "created_at": "2025-01-27T12:38:46Z"
+  },
+  {
+    "name": "Assistant-Configuration-Improver",
+    "pretty_name": "Assistant Configuration Improver",
+    "description": "Assistant which improves the configuration of assistant configuration texts",
+    "url": "https://github.com/danielrosehill/Assistant-Configuration-Improver",
+    "is_fork": false,
+    "created_at": "2025-01-27T12:32:16Z"
+  },
+  {
+    "name": "Github-Ideas-And-FRs",
+    "pretty_name": "Github Ideas And Frs",
+    "description": "Ideas and feature requests contributed to Github projects",
+    "url": "https://github.com/danielrosehill/Github-Ideas-And-FRs",
+    "is_fork": false,
+    "created_at": "2025-01-25T18:17:17Z"
+  },
+  {
+    "name": "Voice-Assistant-Agent-Platforms",
+    "pretty_name": "Voice Assistant Agent Platforms",
+    "description": "A list of a few interesting tools for creating context-backed agents & assistants for voice interaction",
+    "url": "https://github.com/danielrosehill/Voice-Assistant-Agent-Platforms",
+    "is_fork": false,
+    "created_at": "2025-01-23T18:42:17Z"
+  },
+  {
+    "name": "Environmental-Data---AI-Assistants",
+    "pretty_name": "Environmental Data   Artificial Intelligence Assistants",
+    "description": "This repository is a gathering of AI assistants that I've developed for analysing sustainability-related data",
+    "url": "https://github.com/danielrosehill/Environmental-Data---AI-Assistants",
+    "is_fork": false,
+    "created_at": "2025-01-22T15:23:31Z"
+  },
+  {
+    "name": "Home-Assistant-YomTov-Shabbat-0125",
+    "pretty_name": "Home Assistant Yomtov Shabbat 0125",
+    "description": "Updated documentation for Home Assistant automations for Shabbat & Yom Tov observance",
+    "url": "https://github.com/danielrosehill/Home-Assistant-YomTov-Shabbat-0125",
+    "is_fork": false,
+    "created_at": "2025-01-20T14:48:11Z"
+  },
+  {
+    "name": "OpenWebUI-My-Docker-Compose",
+    "pretty_name": "Openwebui My Docker Compose",
+    "description": "A Docker Compose for Open Web UI with a few modifications",
+    "url": "https://github.com/danielrosehill/OpenWebUI-My-Docker-Compose",
+    "is_fork": false,
+    "created_at": "2025-01-12T13:09:59Z"
+  },
+  {
+    "name": "Better-Hashnode-Backups",
+    "pretty_name": "Better Hashnode Backups",
+    "description": "Backups a Hashnode blog including the images from the CDN",
+    "url": "https://github.com/danielrosehill/Better-Hashnode-Backups",
+    "is_fork": false,
+    "created_at": "2025-01-12T10:28:28Z"
+  },
+  {
+    "name": "Personal-AI-Agent-Development-Template",
+    "pretty_name": "Personal Artificial Intelligence Agent Development Template",
+    "description": "A model template/skeleton for creating personalised LLM agents",
+    "url": "https://github.com/danielrosehill/Personal-AI-Agent-Development-Template",
+    "is_fork": false,
+    "created_at": "2025-01-11T00:29:23Z"
+  },
+  {
+    "name": "AI-Second-Brain-Tools",
+    "pretty_name": "Artificial Intelligence Second Brain Tools",
+    "description": "AI platforms that market themselves as \"second brains\" (RAG + LLM). Usually: knowledge discovery, mgmt, wiki + LLM capabilities. ",
+    "url": "https://github.com/danielrosehill/AI-Second-Brain-Tools",
+    "is_fork": false,
+    "created_at": "2025-01-09T14:02:26Z"
+  },
+  {
+    "name": "My-AI-LLM-Configs",
+    "pretty_name": "My Artificial Intelligence Large Language Model Configs",
+    "description": "Configurations for various models accessed via API",
+    "url": "https://github.com/danielrosehill/My-AI-LLM-Configs",
+    "is_fork": false,
+    "created_at": "2025-01-09T05:07:50Z"
+  },
+  {
+    "name": "Personal-Context-Store-Ideation",
+    "pretty_name": "Personal Context Store Ideation",
+    "description": "Prompts generating ideas for developing personal contextual knowledge storage vaults",
+    "url": "https://github.com/danielrosehill/Personal-Context-Store-Ideation",
+    "is_fork": false,
+    "created_at": "2025-01-08T23:10:46Z"
+  },
+  {
+    "name": "Just-Some-AI-App-Ideas",
+    "pretty_name": "Just Some Artificial Intelligence App Ideas",
+    "description": "Gathering repository for various ideas involving AI that I am or have been working on (experiments, etc!)",
+    "url": "https://github.com/danielrosehill/Just-Some-AI-App-Ideas",
+    "is_fork": false,
+    "created_at": "2025-01-08T17:38:53Z"
+  },
+  {
+    "name": "Tool-Searches",
+    "pretty_name": "Tool Searches",
+    "description": "Documenting some tools that I'm on active quest to find!",
+    "url": "https://github.com/danielrosehill/Tool-Searches",
+    "is_fork": false,
+    "created_at": "2025-01-06T14:40:43Z"
+  },
+  {
+    "name": "USB-Foot-Mouse-Linux",
+    "pretty_name": "Usb Foot Mouse Linux",
+    "description": "Documentation for getting a cheap USB HID foot mouse to work on Linux",
+    "url": "https://github.com/danielrosehill/USB-Foot-Mouse-Linux",
+    "is_fork": false,
+    "created_at": "2025-01-05T01:21:45Z"
+  },
+  {
+    "name": "Awesome-STT-Tools",
+    "pretty_name": "Awesome Speech to Text Tools",
+    "description": "A few useful speech to text tools that I've stumbled across including browser extensions, Linux desktop tools and ASR. ",
+    "url": "https://github.com/danielrosehill/Awesome-STT-Tools",
+    "is_fork": false,
+    "created_at": "2025-01-04T22:25:54Z"
+  },
+  {
+    "name": "My-Docker-Compose-Lib-Private",
+    "pretty_name": "My Docker Compose Lib Private",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/My-Docker-Compose-Lib-Private",
+    "is_fork": false,
+    "created_at": "2025-01-04T18:21:53Z"
+  },
+  {
+    "name": "Task-Management-App-Prompt",
+    "pretty_name": "Task Management App Prompt",
+    "description": "A versioned prompt just to find one tool! (Experimenting with prompt length and details provided to improve accuracy!)",
+    "url": "https://github.com/danielrosehill/Task-Management-App-Prompt",
+    "is_fork": false,
+    "created_at": "2025-01-02T18:15:07Z"
+  },
+  {
+    "name": "Awesome-STT-Projects",
+    "pretty_name": "Awesome Speech to Text Projects",
+    "description": "A list of some STT projects from around the internet",
+    "url": "https://github.com/danielrosehill/Awesome-STT-Projects",
+    "is_fork": false,
+    "created_at": "2025-01-02T11:30:09Z"
+  },
+  {
+    "name": "Personal-STT-Benchmarking",
+    "pretty_name": "Personal Speech to Text Benchmarking",
+    "description": "Some personal benchmarks of STT models",
+    "url": "https://github.com/danielrosehill/Personal-STT-Benchmarking",
+    "is_fork": false,
+    "created_at": "2024-12-31T15:29:51Z"
+  },
+  {
+    "name": "Voice-LLM-App-Notes",
+    "pretty_name": "Voice Large Language Model App Notes",
+    "description": "A few notes describing the kind of voice app for large language models I would love to have!",
+    "url": "https://github.com/danielrosehill/Voice-LLM-App-Notes",
+    "is_fork": false,
+    "created_at": "2024-12-30T16:10:23Z"
+  },
+  {
+    "name": "Public-Or-Private-Repo-Extension",
+    "pretty_name": "Public Or Private Repo Extension",
+    "description": "WIP - VS Code Extension to notify users whether the repo they're working on is public or private",
+    "url": "https://github.com/danielrosehill/Public-Or-Private-Repo-Extension",
+    "is_fork": false,
+    "created_at": "2024-12-30T15:20:38Z"
+  },
+  {
+    "name": "Deepgram-STT-Linux-App",
+    "pretty_name": "Deepgram Speech to Text Linux App",
+    "description": "Work in progress - AI-assisted STT app for Linux desktop users",
+    "url": "https://github.com/danielrosehill/Deepgram-STT-Linux-App",
+    "is_fork": false,
+    "created_at": "2024-12-30T15:17:42Z"
+  },
+  {
+    "name": "Gmail-Search-Strings",
+    "pretty_name": "Gmail Search Strings",
+    "description": "Just a few search strings for finding stuff in overcrowded Gmail inboxes!",
+    "url": "https://github.com/danielrosehill/Gmail-Search-Strings",
+    "is_fork": false,
+    "created_at": "2024-12-30T14:24:35Z"
+  },
+  {
+    "name": "Perplexity-Security-1224",
+    "pretty_name": "Perplexity Security 1224",
+    "description": "Repository to demonstrate the \"security through security\" being currently implemented",
+    "url": "https://github.com/danielrosehill/Perplexity-Security-1224",
+    "is_fork": false,
+    "created_at": "2024-12-29T18:00:05Z"
+  },
+  {
+    "name": "Feature-Ideas-And-Requests",
+    "pretty_name": "Feature Ideas And Requests",
+    "description": "General feature requests for tech tools that I use and love!",
+    "url": "https://github.com/danielrosehill/Feature-Ideas-And-Requests",
+    "is_fork": false,
+    "created_at": "2024-12-29T14:49:30Z"
+  },
+  {
+    "name": "Corn-The-Sloth-Public",
+    "pretty_name": "Corn The Sloth Public",
+    "description": "Character sketches for an AI character...",
+    "url": "https://github.com/danielrosehill/Corn-The-Sloth-Public",
+    "is_fork": false,
+    "created_at": "2024-12-24T19:00:45Z"
+  },
+  {
+    "name": "GVFD-Explorer-Chatbot-V2",
+    "pretty_name": "Gvfd Explorer Chatbot V2",
+    "description": "Chatbot supporting user discovery of the global value factors database",
+    "url": "https://github.com/danielrosehill/GVFD-Explorer-Chatbot-V2",
+    "is_fork": false,
+    "created_at": "2024-12-24T17:46:02Z"
+  },
+  {
+    "name": "Context-Data-Generation-Bot",
+    "pretty_name": "Context Data Generation Bot",
+    "description": "Configuration for an AI assistant to generate personal contextual data (and intended workflow)",
+    "url": "https://github.com/danielrosehill/Context-Data-Generation-Bot",
+    "is_fork": false,
+    "created_at": "2024-12-24T10:48:50Z"
+  },
+  {
+    "name": "My-OpenAI-Python-SDK-Helper",
+    "pretty_name": "My Openai Python Sdk Helper",
+    "description": "Docs for a utility that pulls the readme page from OpenAI Python SDK documentation and formats it for a context snippet. ",
+    "url": "https://github.com/danielrosehill/My-OpenAI-Python-SDK-Helper",
+    "is_fork": false,
+    "created_at": "2024-12-23T19:42:27Z"
+  },
+  {
+    "name": "openai-python",
+    "pretty_name": "Openai Python",
+    "description": "The official Python library for the OpenAI API",
+    "url": "https://github.com/danielrosehill/openai-python",
+    "is_fork": true,
+    "created_at": "2024-12-23T19:41:02Z"
+  },
+  {
+    "name": "Prompt-And-Output-Separator",
+    "pretty_name": "Prompt And Output Separator",
+    "description": "Streamlit-deployed app which attempts to separate prompts and outputs from continuous text files",
+    "url": "https://github.com/danielrosehill/Prompt-And-Output-Separator",
+    "is_fork": false,
+    "created_at": "2024-12-22T19:37:53Z"
+  },
+  {
+    "name": "Mock-PII-Data",
+    "pretty_name": "Mock Pii Data",
+    "description": "Synthetic data containing personally identifiable information",
+    "url": "https://github.com/danielrosehill/Mock-PII-Data",
+    "is_fork": false,
+    "created_at": "2024-12-20T14:19:04Z"
+  },
+  {
+    "name": "Global-Value-Factors-Explorer-Dataset",
+    "pretty_name": "Global Value Factors Explorer Dataset",
+    "description": "Derivative database of IFVI Global Value Factors for data analysis and visualization use cases. ",
+    "url": "https://github.com/danielrosehill/Global-Value-Factors-Explorer-Dataset",
+    "is_fork": false,
+    "created_at": "2024-12-20T00:10:49Z"
+  },
+  {
+    "name": "Emissions-Monetisation-Calculator",
+    "pretty_name": "Emissions Monetisation Calculator",
+    "description": "Calculation tool for \"monetising\" companies' emissions at various proposed social cost of carbon values",
+    "url": "https://github.com/danielrosehill/Emissions-Monetisation-Calculator",
+    "is_fork": false,
+    "created_at": "2024-12-19T17:25:31Z"
+  },
+  {
+    "name": "Prompt-Puncutation-Experiment",
+    "pretty_name": "Prompt Puncutation Experiment",
+    "description": "Experimenting to test the effect of puncutation in prompts on inference quality",
+    "url": "https://github.com/danielrosehill/Prompt-Puncutation-Experiment",
+    "is_fork": false,
+    "created_at": "2024-12-19T14:02:02Z"
+  },
+  {
+    "name": "Context-Waterfall-Architecture-Notes",
+    "pretty_name": "Context Waterfall Architecture Notes",
+    "description": "A model for routing contextual data into vector storage for use with LLMs",
+    "url": "https://github.com/danielrosehill/Context-Waterfall-Architecture-Notes",
+    "is_fork": false,
+    "created_at": "2024-12-18T15:22:56Z"
+  },
+  {
+    "name": "Personal-Context-Vector-Pipeline",
+    "pretty_name": "Personal Context Vector Pipeline",
+    "description": "Notes planning a personal contextual data pipeline",
+    "url": "https://github.com/danielrosehill/Personal-Context-Vector-Pipeline",
+    "is_fork": false,
+    "created_at": "2024-12-17T23:18:45Z"
+  },
+  {
+    "name": "Bias-Censorship-Eval-Tests",
+    "pretty_name": "Bias Censorship Eval Tests",
+    "description": "Some loosely organised experiments intended to probe the levels of political censorship inherent in LLMs",
+    "url": "https://github.com/danielrosehill/Bias-Censorship-Eval-Tests",
+    "is_fork": false,
+    "created_at": "2024-12-17T01:43:52Z"
+  },
+  {
+    "name": "Anonymisation-Assistant",
+    "pretty_name": "Anonymisation Assistant",
+    "description": "Configuration for a large language assistant designed to assist with redacting personally identifiable details in documents",
+    "url": "https://github.com/danielrosehill/Anonymisation-Assistant",
+    "is_fork": false,
+    "created_at": "2024-12-16T23:13:12Z"
+  },
+  {
+    "name": "AI-Abusive-Message-Documentation-Tool",
+    "pretty_name": "Artificial Intelligence Abusive Message Documentation Tool",
+    "description": "Configuration text for an LLM assistant designed to assist users with documenting abusive messages",
+    "url": "https://github.com/danielrosehill/AI-Abusive-Message-Documentation-Tool",
+    "is_fork": false,
+    "created_at": "2024-12-15T14:22:14Z"
+  },
+  {
+    "name": "Personal-Context-Repo-Idea",
+    "pretty_name": "Personal Context Repo Idea",
+    "description": "Outlining an idea for a personal context repository for enhancing LLM inference",
+    "url": "https://github.com/danielrosehill/Personal-Context-Repo-Idea",
+    "is_fork": false,
+    "created_at": "2024-12-14T11:36:47Z"
+  },
+  {
+    "name": "every-chatgpt-gui",
+    "pretty_name": "Every Chatgpt Gui",
+    "description": "Every front-end GUI client for ChatGPT, Claude, and other LLMs",
+    "url": "https://github.com/danielrosehill/every-chatgpt-gui",
+    "is_fork": true,
+    "created_at": "2024-12-12T21:05:06Z"
+  },
+  {
+    "name": "PDF-Extract-And-TTS",
+    "pretty_name": "Pdf Extract And Text to Speech",
+    "description": "Streamlit app using Google Cloud APIs to extract core text from a PDF and perform TTS. For listening to long docs. API keys required.",
+    "url": "https://github.com/danielrosehill/PDF-Extract-And-TTS",
+    "is_fork": false,
+    "created_at": "2024-12-12T17:47:27Z"
+  },
+  {
+    "name": "LLM-Long-Codegen-Test",
+    "pretty_name": "Large Language Model Long Codegen Test",
+    "description": "Experiment to evaluate the ability of code-gen LLMs to generate a long continuous (single) output",
+    "url": "https://github.com/danielrosehill/LLM-Long-Codegen-Test",
+    "is_fork": false,
+    "created_at": "2024-12-10T19:03:07Z"
+  },
+  {
+    "name": "LLM-API-Key-Manager",
+    "pretty_name": "Large Language Model Api Key Manager",
+    "description": "Coming soon, a minimalist local first tool for organizing and displaying a list of API keys for large language models that can be accessed this way. ",
+    "url": "https://github.com/danielrosehill/LLM-API-Key-Manager",
+    "is_fork": false,
+    "created_at": "2024-12-09T23:02:51Z"
+  },
+  {
+    "name": "AI-Generated-Project-Starters",
+    "pretty_name": "Artificial Intelligence Generated Project Starters",
+    "description": "AI-generated project starters for anyone wishing to carry on the ideas!",
+    "url": "https://github.com/danielrosehill/AI-Generated-Project-Starters",
+    "is_fork": false,
+    "created_at": "2024-12-09T19:03:53Z"
+  },
+  {
+    "name": "My-Calculators",
+    "pretty_name": "My Calculators",
+    "description": "Unit exchange calculators for calculations I commonly require",
+    "url": "https://github.com/danielrosehill/My-Calculators",
+    "is_fork": false,
+    "created_at": "2024-12-09T12:55:03Z"
+  },
+  {
+    "name": "GHG-Emissions-Data-Pipeline",
+    "pretty_name": "Ghg Emissions Data Pipeline",
+    "description": "Data pipeline repository supplying various data visualisation projects",
+    "url": "https://github.com/danielrosehill/GHG-Emissions-Data-Pipeline",
+    "is_fork": false,
+    "created_at": "2024-12-09T12:39:31Z"
+  },
+  {
+    "name": "GHG-vs-EBITDA-V2",
+    "pretty_name": "Ghg Vs Ebitda V2",
+    "description": "Another data visualisation series comparing companies' GHG emissions with their EBITDA",
+    "url": "https://github.com/danielrosehill/GHG-vs-EBITDA-V2",
+    "is_fork": false,
+    "created_at": "2024-12-09T09:46:21Z"
+  },
+  {
+    "name": "Master-Index",
+    "pretty_name": "Master Index",
+    "description": "This repository serves as a master index linking to the various indices I have for more narrow groupings of topics.",
+    "url": "https://github.com/danielrosehill/Master-Index",
+    "is_fork": false,
+    "created_at": "2024-12-08T09:58:23Z"
+  },
+  {
+    "name": "Data-Projects-Index",
+    "pretty_name": "Data Projects Index",
+    "description": "Data apps and datasets deployed to Streamlit Community Cloud, Hugging Face, and elsewhere. ",
+    "url": "https://github.com/danielrosehill/Data-Projects-Index",
+    "is_fork": false,
+    "created_at": "2024-12-08T09:56:47Z"
+  },
+  {
+    "name": "Sustainability-Report-Data-Extractor",
+    "pretty_name": "Sustainability Report Data Extractor",
+    "description": "Tool for extracting data-containing pages from sustainability reports",
+    "url": "https://github.com/danielrosehill/Sustainability-Report-Data-Extractor",
+    "is_fork": false,
+    "created_at": "2024-12-08T09:45:05Z"
+  },
+  {
+    "name": "Value-Factors-Data-Vis",
+    "pretty_name": "Value Factors Data Vis",
+    "description": "Streamlit app containing visualisations of the Global Value Factors Database (GVFD) released by the IFVI in 2024",
+    "url": "https://github.com/danielrosehill/Value-Factors-Data-Vis",
+    "is_fork": false,
+    "created_at": "2024-12-05T01:52:24Z"
+  },
+  {
+    "name": "Monetised-GHG-Emissions",
+    "pretty_name": "Monetised Ghg Emissions",
+    "description": "Calculating monetised GHG emissions for various companies based upon disclosure data",
+    "url": "https://github.com/danielrosehill/Monetised-GHG-Emissions",
+    "is_fork": false,
+    "created_at": "2024-12-04T18:50:21Z"
+  },
+  {
+    "name": "GHG-EBITDA-Correlations",
+    "pretty_name": "Ghg Ebitda Correlations",
+    "description": "Streamlit data visualisation examining correlation between emissions & profitability",
+    "url": "https://github.com/danielrosehill/GHG-EBITDA-Correlations",
+    "is_fork": false,
+    "created_at": "2024-12-04T14:39:18Z"
+  },
+  {
+    "name": "Fun-LLM-Data-Prompts",
+    "pretty_name": "Fun Large Language Model Data Prompts",
+    "description": "As prompting fro data analysis & vis is quite specific, a small side collection of prompts for this purpose",
+    "url": "https://github.com/danielrosehill/Fun-LLM-Data-Prompts",
+    "is_fork": false,
+    "created_at": "2024-12-03T19:04:12Z"
+  },
+  {
+    "name": "Linux-Desktop-LLM-Apps",
+    "pretty_name": "Linux Desktop Large Language Model Apps",
+    "description": "Quick list of  some LLM related apps with Linux desktop support (chat UIs, CLIs, wrappers, etc)",
+    "url": "https://github.com/danielrosehill/Linux-Desktop-LLM-Apps",
+    "is_fork": false,
+    "created_at": "2024-12-02T20:31:08Z"
+  },
+  {
+    "name": "Eco-Ninja-3",
+    "pretty_name": "Eco Ninja 3",
+    "description": "Configuration for an LLM assistant that performs analysis on sustainability data",
+    "url": "https://github.com/danielrosehill/Eco-Ninja-3",
+    "is_fork": false,
+    "created_at": "2024-12-02T17:59:34Z"
+  },
+  {
+    "name": "LLM-System-Prompts",
+    "pretty_name": "Large Language Model System Prompts",
+    "description": "A few system prompts for LLMs intended to improve the format and utility of outputs. Written primarily for LibreChat but should be reasonably frontend-agnostic",
+    "url": "https://github.com/danielrosehill/LLM-System-Prompts",
+    "is_fork": false,
+    "created_at": "2024-12-02T01:01:17Z"
+  },
+  {
+    "name": "dsnote",
+    "pretty_name": "Dsnote",
+    "description": "Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.",
+    "url": "https://github.com/danielrosehill/dsnote",
+    "is_fork": true,
+    "created_at": "2024-12-01T19:23:43Z"
+  },
+  {
+    "name": "Prompt-Builder",
+    "pretty_name": "Prompt Builder",
+    "description": "Work in progress. Assemble prompts based upon templated forms in the browser. ",
+    "url": "https://github.com/danielrosehill/Prompt-Builder",
+    "is_fork": false,
+    "created_at": "2024-12-01T16:37:18Z"
+  },
+  {
+    "name": "LLM-Output-Vault-Parameters",
+    "pretty_name": "Large Language Model Output Vault Parameters",
+    "description": "Some parameteric data about my LLM output repository as it scales",
+    "url": "https://github.com/danielrosehill/LLM-Output-Vault-Parameters",
+    "is_fork": false,
+    "created_at": "2024-12-01T14:07:35Z"
+  },
+  {
+    "name": "Monetised-Emissions-V2",
+    "pretty_name": "Monetised Emissions V2",
+    "description": "Monetised",
+    "url": "https://github.com/danielrosehill/Monetised-Emissions-V2",
+    "is_fork": false,
+    "created_at": "2024-12-01T12:16:41Z"
+  },
+  {
+    "name": "My-Docs-Index",
+    "pretty_name": "My Docs Index",
+    "description": "An index to my various documentation projects, both on Github and elsewhere",
+    "url": "https://github.com/danielrosehill/My-Docs-Index",
+    "is_fork": false,
+    "created_at": "2024-11-29T17:44:27Z"
+  },
+  {
+    "name": "Demo-Github-Repo-Cleaner-Utility",
+    "pretty_name": "Demo Github Repo Cleaner Utility",
+    "description": "Demo repo for a YouTube video to share some thoughts about prompting for code generation.",
+    "url": "https://github.com/danielrosehill/Demo-Github-Repo-Cleaner-Utility",
+    "is_fork": false,
+    "created_at": "2024-11-27T17:44:24Z"
+  },
+  {
+    "name": "VS-Code-LLM-Tools",
+    "pretty_name": "Vs Code Large Language Model Tools",
+    "description": "A list of some extensions for working with large language models (LLMs) within the VS Code IDE",
+    "url": "https://github.com/danielrosehill/VS-Code-LLM-Tools",
+    "is_fork": false,
+    "created_at": "2024-11-26T14:24:36Z"
+  },
+  {
+    "name": "Daniels-Take-On",
+    "pretty_name": "Daniels Take On",
+    "description": "My thoughts on a few random topics (for my documentation site), to get a bit of space to jot down things besides tech notes",
+    "url": "https://github.com/danielrosehill/Daniels-Take-On",
+    "is_fork": false,
+    "created_at": "2024-11-25T22:41:46Z"
+  },
+  {
+    "name": "LLM-Attribution-Badges",
+    "pretty_name": "Large Language Model Attribution Badges",
+    "description": "Markdown badges for attributing LLM generated (or co-generated) content (using Shields.io)",
+    "url": "https://github.com/danielrosehill/LLM-Attribution-Badges",
+    "is_fork": false,
+    "created_at": "2024-11-24T12:41:49Z"
+  },
+  {
+    "name": "Langchain-Workflows",
+    "pretty_name": "Langchain Workflows",
+    "description": "A few projects for LangChain workflows using programmatic prompting for various purposes. ",
+    "url": "https://github.com/danielrosehill/Langchain-Workflows",
+    "is_fork": false,
+    "created_at": "2024-11-23T12:04:20Z"
+  },
+  {
+    "name": "Testing-Repo-Public",
+    "pretty_name": "Testing Repo Public",
+    "description": "General first entry testing repository for things that need to be publicly accessible. ",
+    "url": "https://github.com/danielrosehill/Testing-Repo-Public",
+    "is_fork": false,
+    "created_at": "2024-11-22T11:46:07Z"
+  },
+  {
+    "name": "Prompt-Engineering-Resources",
+    "pretty_name": "Prompt Engineering Resources",
+    "description": "Lists of resources and tools for prompt engineering and evaluation",
+    "url": "https://github.com/danielrosehill/Prompt-Engineering-Resources",
+    "is_fork": false,
+    "created_at": "2024-11-21T19:22:56Z"
+  },
+  {
+    "name": "Local-Github-Repo-Index-Generator",
+    "pretty_name": "Local Github Repo Index Generator",
+    "description": "Script to generate an index of the Github repos on your local / computer",
+    "url": "https://github.com/danielrosehill/Local-Github-Repo-Index-Generator",
+    "is_fork": false,
+    "created_at": "2024-11-21T17:24:42Z"
+  },
+  {
+    "name": "Projects",
+    "pretty_name": "Projects",
+    "description": "A list of projects I am working on",
+    "url": "https://github.com/danielrosehill/Projects",
+    "is_fork": false,
+    "created_at": "2024-11-20T14:37:31Z"
+  },
+  {
+    "name": "LLM-Workflow-Documentation",
+    "pretty_name": "Large Language Model Workflow Documentation",
+    "description": "Documentation for managing prompts and outputs and working professionally with large language models (LLMs)",
+    "url": "https://github.com/danielrosehill/LLM-Workflow-Documentation",
+    "is_fork": false,
+    "created_at": "2024-11-20T10:30:01Z"
+  },
+  {
+    "name": "LLM-Output-Notes",
+    "pretty_name": "Large Language Model Output Notes",
+    "description": "First entry documentation repository for notes mostly unedited from LLMs",
+    "url": "https://github.com/danielrosehill/LLM-Output-Notes",
+    "is_fork": false,
+    "created_at": "2024-11-19T17:26:57Z"
+  },
+  {
+    "name": "Github-Submodules-Docs",
+    "pretty_name": "Github Submodules Docs",
+    "description": "A few personal notes jotted down for working with submodules in Github while trying to avoid going insane",
+    "url": "https://github.com/danielrosehill/Github-Submodules-Docs",
+    "is_fork": false,
+    "created_at": "2024-11-19T17:24:14Z"
+  },
+  {
+    "name": "Docs-Archive",
+    "pretty_name": "Docs Archive",
+    "description": "archived documentation gathered from different sources and centralized on this repository. ",
+    "url": "https://github.com/danielrosehill/Docs-Archive",
+    "is_fork": false,
+    "created_at": "2024-11-19T17:11:51Z"
+  },
+  {
+    "name": "Gists",
+    "pretty_name": "Gists",
+    "description": "Short tech notes (as in Github Gists, but versioned in a repo to sync them to a doc site)",
+    "url": "https://github.com/danielrosehill/Gists",
+    "is_fork": false,
+    "created_at": "2024-11-19T17:05:04Z"
+  },
+  {
+    "name": "Ideas",
+    "pretty_name": "Ideas",
+    "description": "The first seedlings of ideas as they pop out of my head and onto the page/code editor",
+    "url": "https://github.com/danielrosehill/Ideas",
+    "is_fork": false,
+    "created_at": "2024-11-19T17:02:48Z"
+  },
+  {
+    "name": "Sustainability-Reports-Source",
+    "pretty_name": "Sustainability Reports Source",
+    "description": "Source data and documentation for corporat sustainability disclosures/reporting",
+    "url": "https://github.com/danielrosehill/Sustainability-Reports-Source",
+    "is_fork": false,
+    "created_at": "2024-11-19T15:36:25Z"
+  },
+  {
+    "name": "GVFD-Derivative-Docs",
+    "pretty_name": "Gvfd Derivative Docs",
+    "description": "Documentation for derivative database of IFVI Global Value Factors Database (GVFD)",
+    "url": "https://github.com/danielrosehill/GVFD-Derivative-Docs",
+    "is_fork": false,
+    "created_at": "2024-11-19T12:03:59Z"
+  },
+  {
+    "name": "Wiki",
+    "pretty_name": "Wiki",
+    "description": "General purpose wiki for hosting Gists, how-tos, etc.",
+    "url": "https://github.com/danielrosehill/Wiki",
+    "is_fork": false,
+    "created_at": "2024-11-19T10:20:29Z"
+  },
+  {
+    "name": "mkdocs-gen-nav-plugin",
+    "pretty_name": "Mkdocs Gen Nav Plugin",
+    "description": "Mkdocs plugin for generating navigation by directory structure",
+    "url": "https://github.com/danielrosehill/mkdocs-gen-nav-plugin",
+    "is_fork": true,
+    "created_at": "2024-11-18T20:12:14Z"
+  },
+  {
+    "name": "My-Principles-Of-Prompting",
+    "pretty_name": "My Principles Of Prompting",
+    "description": "A small and opinionated repository of my thoughts about prompting LLMs to maximise their utility for specific use-cases",
+    "url": "https://github.com/danielrosehill/My-Principles-Of-Prompting",
+    "is_fork": false,
+    "created_at": "2024-11-18T16:17:23Z"
+  },
+  {
+    "name": "Mr-David-Rosen",
+    "pretty_name": "Mr David Rosen",
+    "description": "An LLM-generated alias to explore contextually guided prompting strategies",
+    "url": "https://github.com/danielrosehill/Mr-David-Rosen",
+    "is_fork": false,
+    "created_at": "2024-11-14T13:04:02Z"
+  },
+  {
+    "name": "LLMs-on-LLMs",
+    "pretty_name": "Llms On Llms",
+    "description": "Large language models (LLMs) explaining themselves - and how to make best use of them (prompt engineering). Often insightful, though accuracy not guaranteed!",
+    "url": "https://github.com/danielrosehill/LLMs-on-LLMs",
+    "is_fork": false,
+    "created_at": "2024-11-13T16:35:34Z"
+  },
+  {
+    "name": "LLM-Experiment-Notebook",
+    "pretty_name": "Large Language Model Experiment Notebook",
+    "description": "Experiments in evaluating various prompting strategies and LLM performance generally",
+    "url": "https://github.com/danielrosehill/LLM-Experiment-Notebook",
+    "is_fork": false,
+    "created_at": "2024-11-13T15:44:52Z"
+  },
+  {
+    "name": "LibreChat",
+    "pretty_name": "Librechat",
+    "description": "Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.",
+    "url": "https://github.com/danielrosehill/LibreChat",
+    "is_fork": true,
+    "created_at": "2024-11-13T02:45:17Z"
+  },
+  {
+    "name": "LLM-API-Price-Estimates",
+    "pretty_name": "Large Language Model Api Price Estimates",
+    "description": "Some cost estimates for using LLMs via API versus web UI services (like ChatGPT)",
+    "url": "https://github.com/danielrosehill/LLM-API-Price-Estimates",
+    "is_fork": false,
+    "created_at": "2024-11-12T13:34:44Z"
+  },
+  {
+    "name": "Hugo-Scripts",
+    "pretty_name": "Hugo Scripts",
+    "description": "A few scripts for editing static sites built with the Hugo static site generator",
+    "url": "https://github.com/danielrosehill/Hugo-Scripts",
+    "is_fork": false,
+    "created_at": "2024-11-08T12:17:54Z"
+  },
+  {
+    "name": "Prompts-And-Outputs",
+    "pretty_name": "Prompts And Outputs",
+    "description": "A vault of over 2,000 prompts and outputs derived from interactions with various large language models (LLMs)",
+    "url": "https://github.com/danielrosehill/Prompts-And-Outputs",
+    "is_fork": false,
+    "created_at": "2024-11-08T11:56:00Z"
+  },
+  {
+    "name": "osi-data-import",
+    "pretty_name": "Osi Data Import",
+    "description": "Data import tools for OSI",
+    "url": "https://github.com/danielrosehill/osi-data-import",
+    "is_fork": true,
+    "created_at": "2024-11-07T18:17:01Z"
+  },
+  {
+    "name": "OpenSUSE-Config-Backup-Tool",
+    "pretty_name": "Opensuse Config Backup Tool",
+    "description": "Some scripts for backing up OpenSUSE package lists for expedited reprovisioning",
+    "url": "https://github.com/danielrosehill/OpenSUSE-Config-Backup-Tool",
+    "is_fork": false,
+    "created_at": "2024-11-05T16:53:52Z"
+  },
+  {
+    "name": "GHG-Emissions-Monetisation-Calculator",
+    "pretty_name": "Ghg Emissions Monetisation Calculator",
+    "description": "Calculation simulation utility for monetised GHG emissions",
+    "url": "https://github.com/danielrosehill/GHG-Emissions-Monetisation-Calculator",
+    "is_fork": false,
+    "created_at": "2024-11-03T16:22:39Z"
+  },
+  {
+    "name": "Emissions-Data-Reports",
+    "pretty_name": "Emissions Data Reports",
+    "description": "A small selection of GHG emissions datapoints from various sources",
+    "url": "https://github.com/danielrosehill/Emissions-Data-Reports",
+    "is_fork": false,
+    "created_at": "2024-11-03T09:26:27Z"
+  },
+  {
+    "name": "My-LLM-KM-Idea",
+    "pretty_name": "My Large Language Model Km Idea",
+    "description": "\"High level\" documentation/thinking for a system I'm working on for storing large language model (LLM) derived information in a graph-backed knowledge base system",
+    "url": "https://github.com/danielrosehill/My-LLM-KM-Idea",
+    "is_fork": false,
+    "created_at": "2024-10-31T13:27:50Z"
+  },
+  {
+    "name": "Test-Markdown-Docs",
+    "pretty_name": "Test Markdown Docs",
+    "description": "A few formatted markdown files for testing the real-time markdown rendering support of various knowledge management, note-taking and wiki tools",
+    "url": "https://github.com/danielrosehill/Test-Markdown-Docs",
+    "is_fork": false,
+    "created_at": "2024-10-31T02:23:30Z"
+  },
+  {
+    "name": "Prototypes",
+    "pretty_name": "Prototypes",
+    "description": "Loose markdown files documenting various early stage projects (ie, prototypes)",
+    "url": "https://github.com/danielrosehill/Prototypes",
+    "is_fork": false,
+    "created_at": "2024-10-30T20:25:01Z"
+  },
+  {
+    "name": "My-Thoughts-On-Tech",
+    "pretty_name": "My Thoughts On Tech",
+    "description": "A first-entry notepad to jot down some notes that may be developed into blogs (or not). My philosophy and lens on everything from AI to backups.",
+    "url": "https://github.com/danielrosehill/My-Thoughts-On-Tech",
+    "is_fork": false,
+    "created_at": "2024-10-30T15:42:31Z"
+  },
+  {
+    "name": "Nuclino-Notes-Backup",
+    "pretty_name": "Nuclino Notes Backup",
+    "description": "Backup utility for Nuclino via the API",
+    "url": "https://github.com/danielrosehill/Nuclino-Notes-Backup",
+    "is_fork": false,
+    "created_at": "2024-10-30T15:09:14Z"
+  },
+  {
+    "name": "Global-Value-Factors-Explorer",
+    "pretty_name": "Global Value Factors Explorer",
+    "description": "(Non-official) derivative version of IFVI Global Value Factors Database in JSON/GeoJSON to facilitate data analysis projects",
+    "url": "https://github.com/danielrosehill/Global-Value-Factors-Explorer",
+    "is_fork": false,
+    "created_at": "2024-10-21T11:52:37Z"
+  },
+  {
+    "name": "Israel-GeoInsights",
+    "pretty_name": "Israel Geoinsights",
+    "description": "Experimentary repository; using LLMs to analyse geopolitical developments in Israel & the Middle East",
+    "url": "https://github.com/danielrosehill/Israel-GeoInsights",
+    "is_fork": false,
+    "created_at": "2024-10-21T01:25:17Z"
+  },
+  {
+    "name": "LLM-Evaluation-Prompts",
+    "pretty_name": "Large Language Model Evaluation Prompts",
+    "description": "A few prompts that I am storing in a repo for the purpose of running controlled experiments comparing and benchmarking different LLMs for defined use-cases",
+    "url": "https://github.com/danielrosehill/LLM-Evaluation-Prompts",
+    "is_fork": false,
+    "created_at": "2024-10-13T14:51:06Z"
+  },
+  {
+    "name": "LLM-Prompt-Extraction-GUI",
+    "pretty_name": "Large Language Model Prompt Extraction Gui",
+    "description": "GUI for extracting prompts from outputs",
+    "url": "https://github.com/danielrosehill/LLM-Prompt-Extraction-GUI",
+    "is_fork": false,
+    "created_at": "2024-10-06T13:25:56Z"
+  },
+  {
+    "name": "pikud-haoref-api",
+    "pretty_name": "Pikud Haoref Api",
+    "description": "A Node.js wrapper library for Pikud Haoref's unofficial rocket alert API.",
+    "url": "https://github.com/danielrosehill/pikud-haoref-api",
+    "is_fork": true,
+    "created_at": "2024-10-03T02:31:05Z"
+  },
+  {
+    "name": "Example-LLM-Python-GUI-Build",
+    "pretty_name": "Example Large Language Model Python Gui Build",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Example-LLM-Python-GUI-Build",
+    "is_fork": false,
+    "created_at": "2024-10-02T16:22:24Z"
+  },
+  {
+    "name": "Google-Fonts-Hebrew-Downloader",
+    "pretty_name": "Google Fonts Hebrew Downloader",
+    "description": "A utility for downloading Hebrew fonts from Google Fonts using the API (needs a key)",
+    "url": "https://github.com/danielrosehill/Google-Fonts-Hebrew-Downloader",
+    "is_fork": false,
+    "created_at": "2024-10-02T15:35:07Z"
+  },
+  {
+    "name": "Nice-Hebrew-Fonts",
+    "pretty_name": "Nice Hebrew Fonts",
+    "description": "A collection of Hebrew fonts from around the internet",
+    "url": "https://github.com/danielrosehill/Nice-Hebrew-Fonts",
+    "is_fork": false,
+    "created_at": "2024-10-02T15:02:58Z"
+  },
+  {
+    "name": "Public-Shelter-Lists-Israel",
+    "pretty_name": "Public Shelter Lists Israel",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Public-Shelter-Lists-Israel",
+    "is_fork": false,
+    "created_at": "2024-10-02T14:20:58Z"
+  },
+  {
+    "name": "Israel-News-Monitor",
+    "pretty_name": "Israel News Monitor",
+    "description": "News monitoring app intended for people living in Israel",
+    "url": "https://github.com/danielrosehill/Israel-News-Monitor",
+    "is_fork": false,
+    "created_at": "2024-10-02T14:08:21Z"
+  },
+  {
+    "name": "Daniel-s-Workstation-Backup-Genie",
+    "pretty_name": "Daniel S Workstation Backup Genie",
+    "description": "A Claude-developed, me-prompted incremental BTRFS backup utility with hardcoded serial number verification on the target device",
+    "url": "https://github.com/danielrosehill/Daniel-s-Workstation-Backup-Genie",
+    "is_fork": false,
+    "created_at": "2024-10-01T16:29:11Z"
+  },
+  {
+    "name": "My-LLM-Context-Repo-Public",
+    "pretty_name": "My Large Language Model Context Repo Public",
+    "description": "A context repo for experimenting with LLM models. A public version, so some info naturally withheld.",
+    "url": "https://github.com/danielrosehill/My-LLM-Context-Repo-Public",
+    "is_fork": false,
+    "created_at": "2024-09-30T03:21:36Z"
+  },
+  {
+    "name": "Awesome-Obsidian-AI-Tools",
+    "pretty_name": "Awesome Obsidian Artificial Intelligence Tools",
+    "description": "Obsidian plugins focused on leveraging AI & LLMs inside of (and beyond) vaults",
+    "url": "https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools",
+    "is_fork": false,
+    "created_at": "2024-09-30T00:14:49Z"
+  },
+  {
+    "name": "Obisidian-Prompt-Output-Saver-Local-Only",
+    "pretty_name": "Obisidian Prompt Output Saver Local Only",
+    "description": "A GUI component for the Obsidian vault project. This saves prompts and outputs into the vault but doesn't integrate with an LLM API",
+    "url": "https://github.com/danielrosehill/Obisidian-Prompt-Output-Saver-Local-Only",
+    "is_fork": false,
+    "created_at": "2024-09-29T18:52:09Z"
+  },
+  {
+    "name": "Obsidian-Prompt-Output-Saver",
+    "pretty_name": "Obsidian Prompt Output Saver",
+    "description": "A utility for running prompts through the OpenAI API and saving them into an Obsidian Vault structured for LLM output storage",
+    "url": "https://github.com/danielrosehill/Obsidian-Prompt-Output-Saver",
+    "is_fork": false,
+    "created_at": "2024-09-29T16:25:31Z"
+  },
+  {
+    "name": "LLM-Obsidian-Vault-Backup-Utility",
+    "pretty_name": "Large Language Model Obsidian Vault Backup Utility",
+    "description": "Simple backup GUI for my Obsidian vault for storing LLM artifacts (prompts, outputs, agent configs)",
+    "url": "https://github.com/danielrosehill/LLM-Obsidian-Vault-Backup-Utility",
+    "is_fork": false,
+    "created_at": "2024-09-28T17:11:37Z"
+  },
+  {
+    "name": "LLM-Workspace-Scaffolder",
+    "pretty_name": "Large Language Model Workspace Scaffolder",
+    "description": "A quick scaffolding script for populating a repository with folders for organising prompts and outputs, as commonly required when working with LLMs",
+    "url": "https://github.com/danielrosehill/LLM-Workspace-Scaffolder",
+    "is_fork": false,
+    "created_at": "2024-09-27T13:32:40Z"
+  },
+  {
+    "name": "OpenAI-Github-Repo-Index-Creator",
+    "pretty_name": "Openai Github Repo Index Creator",
+    "description": "Simple script for creating a Github index using the OpenAI API",
+    "url": "https://github.com/danielrosehill/OpenAI-Github-Repo-Index-Creator",
+    "is_fork": false,
+    "created_at": "2024-09-27T10:46:56Z"
+  },
+  {
+    "name": "Obisidian-For-LLM-Capture",
+    "pretty_name": "Obisidian For Large Language Model Capture",
+    "description": "Some GUIs and scaffolding scripts intended to optimise Obsidian for use as a knowledge base for storing and organising LLM outputs (as well as prompts and custom agent config)",
+    "url": "https://github.com/danielrosehill/Obisidian-For-LLM-Capture",
+    "is_fork": false,
+    "created_at": "2024-09-26T14:04:37Z"
+  },
+  {
+    "name": "llmnote",
+    "pretty_name": "Llmnote",
+    "description": "A markdown note taking application optimise for saving and storing outputs from LLM & GPT interactions (prompts, outputs, agent configurations)",
+    "url": "https://github.com/danielrosehill/llmnote",
+    "is_fork": true,
+    "created_at": "2024-09-25T23:50:41Z"
+  },
+  {
+    "name": "Model-Idea-Refinement-GPT-Agent",
+    "pretty_name": "Model Idea Refinement Generative Pre-trained Transformer Agent",
+    "description": "A model/template for a custom GPT/LLM agent whose focus is on helping to ideate and improve a technology idea (example: \"Output Hub\")",
+    "url": "https://github.com/danielrosehill/Model-Idea-Refinement-GPT-Agent",
+    "is_fork": false,
+    "created_at": "2024-09-22T18:56:25Z"
+  },
+  {
+    "name": "Database-Relationship-Identifier-Postgres",
+    "pretty_name": "Database Relationship Identifier Postgres",
+    "description": "Utility that creates a human-readable manifest of the relationships contained in a Postgres database",
+    "url": "https://github.com/danielrosehill/Database-Relationship-Identifier-Postgres",
+    "is_fork": false,
+    "created_at": "2024-09-22T12:47:36Z"
+  },
+  {
+    "name": "Output-Hub-POC-Seed",
+    "pretty_name": "Output Hub Poc Seed",
+    "description": "Seeds a relational database structure for 'Output Hub' output management system",
+    "url": "https://github.com/danielrosehill/Output-Hub-POC-Seed",
+    "is_fork": false,
+    "created_at": "2024-09-22T12:39:48Z"
+  },
+  {
+    "name": "How-To-Guides",
+    "pretty_name": "How To Guides",
+    "description": "My little tech discoveries available for anyone who wants to read them!",
+    "url": "https://github.com/danielrosehill/How-To-Guides",
+    "is_fork": false,
+    "created_at": "2024-09-19T15:36:37Z"
+  },
+  {
+    "name": "Natural-Language-Relationship-Definition",
+    "pretty_name": "Natural Language Relationship Definition",
+    "description": "Experiment: trying to create a database schema using natural language",
+    "url": "https://github.com/danielrosehill/Natural-Language-Relationship-Definition",
+    "is_fork": false,
+    "created_at": "2024-09-16T18:41:19Z"
+  },
+  {
+    "name": "Markdown-Templates-For-LLM-Work",
+    "pretty_name": "Markdown Templates For Large Language Model Work",
+    "description": "Some very basic templates for saving LLM outputs in markdown-friendly notebooks (like Joplin)",
+    "url": "https://github.com/danielrosehill/Markdown-Templates-For-LLM-Work",
+    "is_fork": false,
+    "created_at": "2024-09-14T15:16:44Z"
+  },
+  {
+    "name": "Data-Relationships-Helper",
+    "pretty_name": "Data Relationships Helper",
+    "description": "Utility for helping users understand the classic data relationships in RDMSs (M2M, O2M, M2O etc)",
+    "url": "https://github.com/danielrosehill/Data-Relationships-Helper",
+    "is_fork": false,
+    "created_at": "2024-09-10T17:09:31Z"
+  },
+  {
+    "name": "Data-Analysis-Notebook",
+    "pretty_name": "Data Analysis Notebook",
+    "description": "A public notebook of some analytical work with datasets",
+    "url": "https://github.com/danielrosehill/Data-Analysis-Notebook",
+    "is_fork": false,
+    "created_at": "2024-09-09T17:21:30Z"
+  },
+  {
+    "name": "GPT-Repo-Utility",
+    "pretty_name": "Generative Pre-trained Transformer Repo Utility",
+    "description": "Utility for saving GPT outputs into an organised markdown repository",
+    "url": "https://github.com/danielrosehill/GPT-Repo-Utility",
+    "is_fork": false,
+    "created_at": "2024-09-08T21:32:57Z"
+  },
+  {
+    "name": "GPT-To-PDF",
+    "pretty_name": "Generative Pre-trained Transformer To Pdf",
+    "description": "Simple text conversion utility. User inputs prompts and outputs, GUI renders to PDF. GPT-authored code!",
+    "url": "https://github.com/danielrosehill/GPT-To-PDF",
+    "is_fork": false,
+    "created_at": "2024-09-08T18:20:49Z"
+  },
+  {
+    "name": "Distro-Tuner",
+    "pretty_name": "Distro Tuner",
+    "description": "Quick template for creating a local repo with symlinks to key system files on Linux",
+    "url": "https://github.com/danielrosehill/Distro-Tuner",
+    "is_fork": false,
+    "created_at": "2024-09-01T13:18:18Z"
+  },
+  {
+    "name": "Postgres-Utilities",
+    "pretty_name": "Postgres Utilities",
+    "description": "Little scripts and hacks for working with my favorite database!",
+    "url": "https://github.com/danielrosehill/Postgres-Utilities",
+    "is_fork": false,
+    "created_at": "2024-08-25T08:28:57Z"
+  },
+  {
+    "name": "refine-public-mods",
+    "pretty_name": "Refine Public Mods",
+    "description": "A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+    "url": "https://github.com/danielrosehill/refine-public-mods",
+    "is_fork": true,
+    "created_at": "2024-08-24T18:57:20Z"
+  },
+  {
+    "name": "Fedora-GUIs",
+    "pretty_name": "Fedora Guis",
+    "description": "A few small learning projects intended at developing very simple GUIs for Fedora Linux",
+    "url": "https://github.com/danielrosehill/Fedora-GUIs",
+    "is_fork": false,
+    "created_at": "2024-08-20T18:59:10Z"
+  },
+  {
+    "name": "Snippet-Library",
+    "pretty_name": "Snippet Library",
+    "description": "Library of code snippets",
+    "url": "https://github.com/danielrosehill/Snippet-Library",
+    "is_fork": false,
+    "created_at": "2024-08-12T14:15:01Z"
+  },
+  {
+    "name": "Scaffolding-Scripts",
+    "pretty_name": "Scaffolding Scripts",
+    "description": "Scripts for scaffolding folder structures I commonly use",
+    "url": "https://github.com/danielrosehill/Scaffolding-Scripts",
+    "is_fork": false,
+    "created_at": "2024-08-11T05:54:21Z"
+  },
+  {
+    "name": "danielrosehill",
+    "pretty_name": "Danielrosehill",
+    "description": "Github homepage, V2",
+    "url": "https://github.com/danielrosehill/danielrosehill",
+    "is_fork": false,
+    "created_at": "2024-08-11T02:00:11Z"
+  },
+  {
+    "name": "Taxonomy-Generators",
+    "pretty_name": "Taxonomy Generators",
+    "description": "Scripts for creating taxonomies, mostly Python",
+    "url": "https://github.com/danielrosehill/Taxonomy-Generators",
+    "is_fork": false,
+    "created_at": "2024-08-09T17:51:47Z"
+  },
+  {
+    "name": "AI-Generated-Code-Samples",
+    "pretty_name": "Artificial Intelligence Generated Code Samples",
+    "description": "Scripts and other programs generated with various LLMs. Sometimes they need refinement. Frequently they just work!",
+    "url": "https://github.com/danielrosehill/AI-Generated-Code-Samples",
+    "is_fork": false,
+    "created_at": "2024-08-09T15:36:11Z"
+  },
+  {
+    "name": "Shields-Markdown-Badges",
+    "pretty_name": "Shields Markdown Badges",
+    "description": "Markdown badges from the Shields.io project (the ones I like and use frequently)",
+    "url": "https://github.com/danielrosehill/Shields-Markdown-Badges",
+    "is_fork": false,
+    "created_at": "2024-08-09T14:50:15Z"
+  },
+  {
+    "name": "LLM-Workspace-Scaffolding",
+    "pretty_name": "Large Language Model Workspace Scaffolding",
+    "description": "A folder structure (scaffold) for those employing systematic workflows for working with LLMs",
+    "url": "https://github.com/danielrosehill/LLM-Workspace-Scaffolding",
+    "is_fork": false,
+    "created_at": "2024-08-09T13:23:59Z"
+  },
+  {
+    "name": "My-Scaffolding-Templates",
+    "pretty_name": "My Scaffolding Templates",
+    "description": "File structure templates for common projects. More specific templates sometimes have their own repository.",
+    "url": "https://github.com/danielrosehill/My-Scaffolding-Templates",
+    "is_fork": false,
+    "created_at": "2024-08-09T13:16:37Z"
+  },
+  {
+    "name": "Document-Templates",
+    "pretty_name": "Document Templates",
+    "description": "Documentation matters! Some of the templates (in markdown) that I like to use",
+    "url": "https://github.com/danielrosehill/Document-Templates",
+    "is_fork": false,
+    "created_at": "2024-08-09T10:37:05Z"
+  },
+  {
+    "name": "Israel-Rocket-Shelter-Guidelines",
+    "pretty_name": "Israel Rocket Shelter Guidelines",
+    "description": "An improved translation of the Home Front Command instructions for finding emergency shelter in Israel",
+    "url": "https://github.com/danielrosehill/Israel-Rocket-Shelter-Guidelines",
+    "is_fork": false,
+    "created_at": "2024-08-07T23:51:54Z"
+  },
+  {
+    "name": "Custom-Chat-GPT-Finder",
+    "pretty_name": "Custom Chat Generative Pre-trained Transformer Finder",
+    "description": "Utility for identifying newly released custom ChatGPTs shared via the ChatGPT App Store",
+    "url": "https://github.com/danielrosehill/Custom-Chat-GPT-Finder",
+    "is_fork": false,
+    "created_at": "2024-08-07T19:14:04Z"
+  },
+  {
+    "name": "Output-Hub",
+    "pretty_name": "Output Hub",
+    "description": "An admin application I'm developing for managing all aspects of working with LLMs professionally and at scale, with functions for prompt logging, prompt library, and custom LLM agent inventorising. Aspiration: add code to notes gradually as project matures!",
+    "url": "https://github.com/danielrosehill/Output-Hub",
+    "is_fork": false,
+    "created_at": "2024-08-07T18:06:36Z"
+  },
+  {
+    "name": "Awesome-LLM-Prompt-Libraries",
+    "pretty_name": "Awesome Large Language Model Prompt Libraries",
+    "description": "An index of prompting libraries for GPTs, including ChatGPT. Some of these are on Github and others are hosted externally.",
+    "url": "https://github.com/danielrosehill/Awesome-LLM-Prompt-Libraries",
+    "is_fork": false,
+    "created_at": "2024-08-07T16:50:44Z"
+  },
+  {
+    "name": "Awesome-Prompt-Engineering",
+    "pretty_name": "Awesome Prompt Engineering",
+    "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ",
+    "url": "https://github.com/danielrosehill/Awesome-Prompt-Engineering",
+    "is_fork": true,
+    "created_at": "2024-08-07T16:47:21Z"
+  },
+  {
+    "name": "awesome-chatgpt-prompts",
+    "pretty_name": "Awesome Chatgpt Prompts",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "url": "https://github.com/danielrosehill/awesome-chatgpt-prompts",
+    "is_fork": true,
+    "created_at": "2024-08-07T16:47:07Z"
+  },
+  {
+    "name": "Custom-LLM-Agent-Platforms",
+    "pretty_name": "Custom Large Language Model Agent Platforms",
+    "description": "Tools, frameworks, and platforms for custom LLM agent creation, including AI workforces/fleets",
+    "url": "https://github.com/danielrosehill/Custom-LLM-Agent-Platforms",
+    "is_fork": false,
+    "created_at": "2024-08-06T21:12:58Z"
+  },
+  {
+    "name": "Tampermonkey-Scripts",
+    "pretty_name": "Tampermonkey Scripts",
+    "description": "Tampermonkey scripts for browser automation tasks",
+    "url": "https://github.com/danielrosehill/Tampermonkey-Scripts",
+    "is_fork": false,
+    "created_at": "2024-08-06T21:03:23Z"
+  },
+  {
+    "name": "GPT_Python",
+    "pretty_name": "Gpt_python",
+    "description": "ChatGPT-generated Python scripts for various purposes",
+    "url": "https://github.com/danielrosehill/GPT_Python",
+    "is_fork": false,
+    "created_at": "2024-08-05T11:51:23Z"
+  },
+  {
+    "name": "Random-Taxonomies",
+    "pretty_name": "Random Taxonomies",
+    "description": "List of taxonomies generated with GPT for various purposes and open-sourced for ease of reuse",
+    "url": "https://github.com/danielrosehill/Random-Taxonomies",
+    "is_fork": false,
+    "created_at": "2024-08-04T14:59:36Z"
+  },
+  {
+    "name": "LLM-Use-Case-Self-Ideation",
+    "pretty_name": "Large Language Model Use Case Self Ideation",
+    "description": "LLM-generated documents describing potential use-cases for GPTs & other LLMs across both professional and business contexts with sections describing potential/predicted evolutions as underlying technology advances",
+    "url": "https://github.com/danielrosehill/LLM-Use-Case-Self-Ideation",
+    "is_fork": false,
+    "created_at": "2024-08-04T10:54:06Z"
+  },
+  {
+    "name": "homebox",
+    "pretty_name": "Homebox",
+    "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+    "url": "https://github.com/danielrosehill/homebox",
+    "is_fork": true,
+    "created_at": "2024-08-04T04:08:17Z"
+  },
+  {
+    "name": "Jerusalem-Public-Shelters",
+    "pretty_name": "Jerusalem Public Shelters",
+    "description": "Jerusalem public shelter locations extracted from ODBL licensed sources. Please do not rely upon these for your own preparedness efforts.",
+    "url": "https://github.com/danielrosehill/Jerusalem-Public-Shelters",
+    "is_fork": false,
+    "created_at": "2024-08-03T17:49:59Z"
+  },
+  {
+    "name": "opendefinition",
+    "pretty_name": "Opendefinition",
+    "description": "Open Definition source",
+    "url": "https://github.com/danielrosehill/opendefinition",
+    "is_fork": true,
+    "created_at": "2024-08-03T17:46:42Z"
+  },
+  {
+    "name": "LLM-Outputs",
+    "pretty_name": "Large Language Model Outputs",
+    "description": "Interesting GPT outputs demonstrating specific capabilities",
+    "url": "https://github.com/danielrosehill/LLM-Outputs",
+    "is_fork": false,
+    "created_at": "2024-07-31T18:29:57Z"
+  },
+  {
+    "name": "Awesome-LLM-Communities",
+    "pretty_name": "Awesome Large Language Model Communities",
+    "description": "Great online communities discussing use of LLMs including (but not limited to) ChatGPT",
+    "url": "https://github.com/danielrosehill/Awesome-LLM-Communities",
+    "is_fork": false,
+    "created_at": "2024-07-30T19:35:42Z"
+  },
+  {
+    "name": "Daniel-Public-Changelog",
+    "pretty_name": "Daniel Public Changelog",
+    "description": "A publicly accessible changelog of all my technical projects",
+    "url": "https://github.com/danielrosehill/Daniel-Public-Changelog",
+    "is_fork": false,
+    "created_at": "2024-07-27T20:37:42Z"
+  },
+  {
+    "name": "Github-Optimisation",
+    "pretty_name": "Github Optimisation",
+    "description": "Ideas and scripts for optimising Github repositories",
+    "url": "https://github.com/danielrosehill/Github-Optimisation",
+    "is_fork": false,
+    "created_at": "2024-07-27T20:25:18Z"
+  },
+  {
+    "name": "Prompt-Library",
+    "pretty_name": "Prompt Library",
+    "description": "A repository of prompts I've used when working with LLMs as well as some example outputs and notes",
+    "url": "https://github.com/danielrosehill/Prompt-Library",
+    "is_fork": false,
+    "created_at": "2024-07-24T17:25:34Z"
+  },
+  {
+    "name": "Github-Repo-Index",
+    "pretty_name": "Github Repo Index",
+    "description": "An index to the Github profile of Daniel Rosehill. Repositories are organised by themes in the 'sections' folder.",
+    "url": "https://github.com/danielrosehill/Github-Repo-Index",
+    "is_fork": false,
+    "created_at": "2024-07-22T17:27:28Z"
+  },
+  {
+    "name": "Python-Scripts",
+    "pretty_name": "Python Scripts",
+    "description": "Python scripts that are publicly shared via Github",
+    "url": "https://github.com/danielrosehill/Python-Scripts",
+    "is_fork": false,
+    "created_at": "2024-07-18T19:13:08Z"
+  },
+  {
+    "name": "ChatGPT-CustomGPT-Dev",
+    "pretty_name": "Chatgpt Customgpt Dev",
+    "description": "Scripts and utilities for managing custom GPTs built with ChatGPT",
+    "url": "https://github.com/danielrosehill/ChatGPT-CustomGPT-Dev",
+    "is_fork": false,
+    "created_at": "2024-07-16T19:51:58Z"
+  },
+  {
+    "name": "Custom-LLM-Agents",
+    "pretty_name": "Custom Large Language Model Agents",
+    "description": "This repository contains configuration scripts for large language model assistants, which I have deployed mostly currently on Hugging Face Chat. ",
+    "url": "https://github.com/danielrosehill/Custom-LLM-Agents",
+    "is_fork": false,
+    "created_at": "2024-07-06T19:25:02Z"
+  },
+  {
+    "name": "Misc-Scripts",
+    "pretty_name": "Misc Scripts",
+    "description": "Public collection of miscellaneous scripts, mostly for automation",
+    "url": "https://github.com/danielrosehill/Misc-Scripts",
+    "is_fork": false,
+    "created_at": "2024-06-27T11:18:46Z"
+  },
+  {
+    "name": "PersonalHomepage",
+    "pretty_name": "Personalhomepage",
+    "description": "My personal homepage - based on the Milky Way Astro theme by Tristen Tomczak ",
+    "url": "https://github.com/danielrosehill/PersonalHomepage",
+    "is_fork": false,
+    "created_at": "2024-06-26T23:32:34Z"
+  },
+  {
+    "name": "astrostarter",
+    "pretty_name": "Astrostarter",
+    "description": "A few spins on the Astro starter theme to demonstrate some capabilities that I like adding to this framework",
+    "url": "https://github.com/danielrosehill/astrostarter",
+    "is_fork": false,
+    "created_at": "2024-06-26T23:14:14Z"
+  },
+  {
+    "name": "Awesome-Linux-IDEs",
+    "pretty_name": "Awesome Linux Ides",
+    "description": "IDEs and development tools that work on one or multiple Linux distros. where possible details are noted like the supported distros, programming languages and more.   ",
+    "url": "https://github.com/danielrosehill/Awesome-Linux-IDEs",
+    "is_fork": false,
+    "created_at": "2024-05-19T17:20:38Z"
+  },
+  {
+    "name": "minimal-awesome-list-generator",
+    "pretty_name": "Minimal Awesome List Generator",
+    "description": "A fork of the Awesome list generator modified for simplicity",
+    "url": "https://github.com/danielrosehill/minimal-awesome-list-generator",
+    "is_fork": true,
+    "created_at": "2024-05-19T14:55:47Z"
+  },
+  {
+    "name": "ImpactDBPipeline",
+    "pretty_name": "Impactdbpipeline",
+    "description": "Data ingress pipeline for Impact Database ",
+    "url": "https://github.com/danielrosehill/ImpactDBPipeline",
+    "is_fork": false,
+    "created_at": "2024-04-21T15:36:37Z"
+  },
+  {
+    "name": "Awesome-Kubernetes-Linux-Desktop",
+    "pretty_name": "Awesome Kubernetes Linux Desktop",
+    "description": "GUIs and other tools that make managing Kubernetes clusters easier for Linux desktop users (I use Ubuntu but will add resources for other distros)",
+    "url": "https://github.com/danielrosehill/Awesome-Kubernetes-Linux-Desktop",
+    "is_fork": false,
+    "created_at": "2024-04-20T17:48:38Z"
+  },
+  {
+    "name": "Tech-Ideas",
+    "pretty_name": "Tech Ideas",
+    "description": "For open sourcing the occasional sparks of innovation I have but lack the time to implement them currently.",
+    "url": "https://github.com/danielrosehill/Tech-Ideas",
+    "is_fork": false,
+    "created_at": "2024-04-18T16:03:18Z"
+  },
+  {
+    "name": "ImpactInvestingData",
+    "pretty_name": "Impactinvestingdata",
+    "description": "A repository for housing visualisations and analyses of data related to impact investing approaches",
+    "url": "https://github.com/danielrosehill/ImpactInvestingData",
+    "is_fork": false,
+    "created_at": "2024-04-15T01:59:19Z"
+  },
+  {
+    "name": "Awesome-Israeli-Jewish-Home-Assistant",
+    "pretty_name": "Awesome Israeli Jewish Home Assistant",
+    "description": "Home automation projects that are relevant to people in Israel or Jews generally (e.g. Shabbat and zmanim time integrations)",
+    "url": "https://github.com/danielrosehill/Awesome-Israeli-Jewish-Home-Assistant",
+    "is_fork": false,
+    "created_at": "2024-04-12T12:54:28Z"
+  },
+  {
+    "name": "awesome-opensource-israel",
+    "pretty_name": "Awesome Opensource Israel",
+    "description": "A curated list of Israeli-made projects, events, and individuals",
+    "url": "https://github.com/danielrosehill/awesome-opensource-israel",
+    "is_fork": true,
+    "created_at": "2024-04-10T17:56:35Z"
+  },
+  {
+    "name": "Jewish-Sabbaths-Holidays",
+    "pretty_name": "Jewish Sabbaths Holidays",
+    "description": "Jewish Shabbat Yomtov and Holidays times and event",
+    "url": "https://github.com/danielrosehill/Jewish-Sabbaths-Holidays",
+    "is_fork": true,
+    "created_at": "2024-04-04T19:33:43Z"
+  },
+  {
+    "name": "Home-Assistant-Dashboards-General-",
+    "pretty_name": "Home Assistant Dashboards General ",
+    "description": "General Home Assistant dashboards - screenshots and YAML",
+    "url": "https://github.com/danielrosehill/Home-Assistant-Dashboards-General-",
+    "is_fork": false,
+    "created_at": "2024-04-02T15:39:49Z"
+  },
+  {
+    "name": "MakoletTime",
+    "pretty_name": "Makolettime",
+    "description": "A Home Assistant grocery list optimised for the needs of Israeli consumers.",
+    "url": "https://github.com/danielrosehill/MakoletTime",
+    "is_fork": false,
+    "created_at": "2024-03-29T21:21:42Z"
+  },
+  {
+    "name": "Home-Assistant-snippets",
+    "pretty_name": "Home Assistant Snippets",
+    "description": "Little snippets of YAML for HA as I figure out how to make it do stuff. Open sourcing it because .. why not!?",
+    "url": "https://github.com/danielrosehill/Home-Assistant-snippets",
+    "is_fork": false,
+    "created_at": "2024-03-24T19:53:45Z"
+  },
+  {
+    "name": "Home-Assistant-Shabbat-Yom-Tom",
+    "pretty_name": "Home Assistant Shabbat Yom Tom",
+    "description": "Automations and configurations for Home Assistant specifically intended for the observance of Jewish festivals and Shabbat",
+    "url": "https://github.com/danielrosehill/Home-Assistant-Shabbat-Yom-Tom",
+    "is_fork": false,
+    "created_at": "2024-03-22T02:53:23Z"
+  },
+  {
+    "name": "Homepage",
+    "pretty_name": "Homepage",
+    "description": "A homepage for my Github account. This page gives an overview of the projects I'm working on and sharing on Github.",
+    "url": "https://github.com/danielrosehill/Homepage",
+    "is_fork": false,
+    "created_at": "2024-03-21T14:42:59Z"
+  },
+  {
+    "name": "Impact-Investing-First-Entry-",
+    "pretty_name": "Impact Investing First Entry ",
+    "description": "A repository for hosting data about impact investing that is not covered by other more specific repositories here.",
+    "url": "https://github.com/danielrosehill/Impact-Investing-First-Entry-",
+    "is_fork": false,
+    "created_at": "2024-03-21T01:05:22Z"
+  },
+  {
+    "name": "Outcomes-Funds",
+    "pretty_name": "Outcomes Funds",
+    "description": "Data analysis and visualisations performed on data from various sources tracking the establishment and progress of outcomes funds around the world.",
+    "url": "https://github.com/danielrosehill/Outcomes-Funds",
+    "is_fork": false,
+    "created_at": "2024-03-21T01:04:10Z"
+  },
+  {
+    "name": "Impact-Weighted-Accounts-Demo-App",
+    "pretty_name": "Impact Weighted Accounts Demo App",
+    "description": "A prototype app for displaying impact-weighted accounting data for products serving data from NFC tags (example deployment: a supermarket)",
+    "url": "https://github.com/danielrosehill/Impact-Weighted-Accounts-Demo-App",
+    "is_fork": false,
+    "created_at": "2024-03-21T01:01:48Z"
+  },
+  {
+    "name": "ImpactWeightedAccounts",
+    "pretty_name": "Impactweightedaccounts",
+    "description": "A repository for hosting data and data visualisations related to the work of the International Foundation for Valuing Impacts and other organizations pioneering the development and adoption of these methods (disclaimer: this is an independent project not affiliated or associated with any particular entity).",
+    "url": "https://github.com/danielrosehill/ImpactWeightedAccounts",
+    "is_fork": false,
+    "created_at": "2024-03-19T20:02:29Z"
+  },
+  {
+    "name": "backup_internet_israel",
+    "pretty_name": "Backup_internet_israel",
+    "description": "Network schematics and purchasing notes for those interested in provisioning failover and bonded internet connectivity in Israel (using locally sourced hardware)",
+    "url": "https://github.com/danielrosehill/backup_internet_israel",
+    "is_fork": false,
+    "created_at": "2021-09-06T03:29:41Z"
+  },
+  {
+    "name": "My_Tech_Stack",
+    "pretty_name": "My_tech_stack",
+    "description": "I periodically begin using new tools and services. This is a means of documenting them. ",
+    "url": "https://github.com/danielrosehill/My_Tech_Stack",
+    "is_fork": false,
+    "created_at": "2021-06-20T12:25:05Z"
+  },
+  {
+    "name": "Public-GPG-Keys",
+    "pretty_name": "Public Gpg Keys",
+    "description": "My public PGP keys",
+    "url": "https://github.com/danielrosehill/Public-GPG-Keys",
+    "is_fork": false,
+    "created_at": "2021-03-11T14:30:22Z"
+  },
+  {
+    "name": "twofactorauth",
+    "pretty_name": "Twofactorauth",
+    "description": "List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.",
+    "url": "https://github.com/danielrosehill/twofactorauth",
+    "is_fork": true,
+    "created_at": "2020-10-26T12:36:31Z"
+  },
+  {
+    "name": "AWSCCPPrep",
+    "pretty_name": "Awsccpprep",
+    "description": "Preparation materials for the AWS Certified Cloud Practitioner exam. Please use at your own discretion. I do not warrant that any of these training materials are free of errors. ",
+    "url": "https://github.com/danielrosehill/AWSCCPPrep",
+    "is_fork": false,
+    "created_at": "2020-10-13T10:47:46Z"
+  },
+  {
+    "name": "MechanicalKeyboards",
+    "pretty_name": "Mechanicalkeyboards",
+    "description": "Some markdown documentation for my own reference regarding different Cherry MX mechanical keyboard switches. ",
+    "url": "https://github.com/danielrosehill/MechanicalKeyboards",
+    "is_fork": false,
+    "created_at": "2020-06-14T20:10:12Z"
+  },
+  {
+    "name": "UbuntuReinstallation",
+    "pretty_name": "Ubuntureinstallation",
+    "description": "This repository will contain Bash scripts and other tools intended to automatically expedite the installation of my preferred system from stock Ubuntu. This should reflect the changes in the Ubuntu modifications repository which are intended to be applied manually. ",
+    "url": "https://github.com/danielrosehill/UbuntuReinstallation",
+    "is_fork": false,
+    "created_at": "2020-06-14T17:03:18Z"
+  },
+  {
+    "name": "FirstEntryPublic",
+    "pretty_name": "Firstentrypublic",
+    "description": "Files that needed to be added to other repositories",
+    "url": "https://github.com/danielrosehill/FirstEntryPublic",
+    "is_fork": false,
+    "created_at": "2020-06-14T06:13:44Z"
+  },
+  {
+    "name": "MyDesktop",
+    "pretty_name": "Mydesktop",
+    "description": "Markdown documentation for the evolution of my desktop",
+    "url": "https://github.com/danielrosehill/MyDesktop",
+    "is_fork": false,
+    "created_at": "2020-06-07T23:55:24Z"
+  },
+  {
+    "name": "Cloud-Backup-Scripts",
+    "pretty_name": "Cloud Backup Scripts",
+    "description": "Various scripts for manually syncing and backing up cloud storage",
+    "url": "https://github.com/danielrosehill/Cloud-Backup-Scripts",
+    "is_fork": false,
+    "created_at": "2020-05-08T12:16:51Z"
+  },
+  {
+    "name": "UbuntuBugResolution",
+    "pretty_name": "Ubuntubugresolution",
+    "description": "Documentation to resolve Ubuntu bugs as I encounter them ",
+    "url": "https://github.com/danielrosehill/UbuntuBugResolution",
+    "is_fork": false,
+    "created_at": "2020-05-07T16:14:09Z"
+  },
+  {
+    "name": "Master_Backup_Strategy",
+    "pretty_name": "Master_backup_strategy",
+    "description": "A markdown file summarizing my current approaches for creating 3-2-1 compliant backups of my local and cloud infrastructure including Linux desktop, VMs, SaaS utilities, and self-hosted cloud apps.",
+    "url": "https://github.com/danielrosehill/Master_Backup_Strategy",
+    "is_fork": false,
+    "created_at": "2020-05-01T12:32:46Z"
+  },
+  {
+    "name": "CloudBackupApproaches",
+    "pretty_name": "Cloudbackupapproaches",
+    "description": "Periodically updated markdown documentation summarizing manual / non-programmatic methodologies to back up commonly used SaaS / cloud-hosted software utilities.",
+    "url": "https://github.com/danielrosehill/CloudBackupApproaches",
+    "is_fork": false,
+    "created_at": "2020-04-30T22:03:56Z"
+  },
+  {
+    "name": "Home",
+    "pretty_name": "Home",
+    "description": "No description provided",
+    "url": "https://github.com/danielrosehill/Home",
+    "is_fork": false,
+    "created_at": "2020-04-27T18:57:03Z"
+  },
+  {
+    "name": "UbuntuBackupStrategy",
+    "pretty_name": "Ubuntubackupstrategy",
+    "description": "Various Bash scripts, edited configuration packages, and other resources to be manually applied to a fresh Ubuntu installation. ",
+    "url": "https://github.com/danielrosehill/UbuntuBackupStrategy",
+    "is_fork": false,
+    "created_at": "2020-02-22T22:23:43Z"
+  },
+  {
+    "name": "danielrosehill.github.io",
+    "pretty_name": "Danielrosehill.github.io",
+    "description": "Github Repository",
+    "url": "https://github.com/danielrosehill/danielrosehill.github.io",
+    "is_fork": false,
+    "created_at": "2019-12-26T17:40:25Z"
+  },
+  {
+    "name": "Misc",
+    "pretty_name": "Misc",
+    "description": "Miscellaneous project files",
+    "url": "https://github.com/danielrosehill/Misc",
+    "is_fork": false,
+    "created_at": "2019-12-09T02:47:07Z"
+  },
+  {
+    "name": "UbuntuModifications",
+    "pretty_name": "Ubuntumodifications",
+    "description": "My modifications for Ubuntu Linux. Publicly accessible so that I can access these conveniently.",
+    "url": "https://github.com/danielrosehill/UbuntuModifications",
+    "is_fork": false,
+    "created_at": "2019-10-26T18:44:28Z"
+  }
+]
