@@ -28,6 +28,9 @@ def generate_markdown_files(repo_index_file, categories_dir):
 
             # Find repos in repo_data that match the names in the category file
             category_repos = [repo for repo in repo_data if repo['name'] in repo_names]
+            
+            # Sort repos alphabetically by name
+            category_repos.sort(key=lambda x: x['name'].lower())
 
             repos_by_category[category_name] = category_repos
 
@@ -37,13 +40,15 @@ def generate_markdown_files(repo_index_file, categories_dir):
         with open(markdown_file, 'w') as f:
             f.write(f'# {category_name.capitalize()} Repositories\n\n')
             for repo in repos:
-                f.write(f'## [{repo["pretty_name"]}]({repo["url"]})\n')
+                # Add repository title with clickable view badge
+                view_badge = f'[![View Repo](https://img.shields.io/badge/view-repo-green)]({repo["url"]})'
+                f.write(f'## {repo["pretty_name"]} {view_badge}\n')
                 f.write(f'{repo["description"]}\n\n')
 
     print("Markdown files generated successfully.")
 
 
 if __name__ == '__main__':
-    repo_index_file = 'repo-index.json'
+    repo_index_file = 'data/exports/repo-index.json'
     categories_dir = 'lists/categories'
     generate_markdown_files(repo_index_file, categories_dir)
