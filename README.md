@@ -32,7 +32,29 @@ The category index organizes repositories by their primary function or topic. Ea
 | [![Ideas](https://img.shields.io/badge/Ideas-2ea44f?style=for-the-badge&logo=github)](sections/ideas.md) | [![Voice](https://img.shields.io/badge/Voice-2ea44f?style=for-the-badge&logo=github)](sections/voice.md) |
 | [![Indexes](https://img.shields.io/badge/Indexes-2ea44f?style=for-the-badge&logo=github)](sections/indexes.md) |  |
 
-## Data Exports
-For programmatic access to this repository data:
+## API & Data Access
+
+This repository provides programmatic access to the repository data through GitHub Pages. You can access the data in multiple formats:
+
+### JSON API
+The repository data is available as a JSON API endpoint:
+```
+https://danielrosehill.github.io/Github-Timeline/data/exports/repo-index.json
+```
+
+### Data Exports
 - [Repository Index (JSON)](data/exports/repo-index.json)
 - [Repository Index (CSV)](data/exports/repo-index.csv)
+
+### Category Data
+Each category's repositories are available as text files:
+```
+https://danielrosehill.github.io/Github-Timeline/lists/categories/{category-name}.txt
+```
+
+### API Documentation
+For detailed API documentation and usage examples, see:
+- [API Documentation](https://danielrosehill.github.io/Github-Timeline/)
+- [API Usage Examples](examples/api-usage.md)
+
+The data is automatically updated whenever the repository is updated, ensuring you always have access to the latest information.

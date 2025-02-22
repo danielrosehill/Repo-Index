@@ -63,10 +63,31 @@ The category index organizes repositories by their primary function or topic. Ea
 
 {chr(10).join(section_table)}
 
-## Data Exports
-For programmatic access to this repository data:
+## Data Access & API
+
+This repository provides multiple ways to access the data programmatically:
+
+### Data Exports
+Direct file downloads:
 - [Repository Index (JSON)](data/exports/repo-index.json)
-- [Repository Index (CSV)](data/exports/repo-index.csv)"""
+- [Repository Index (CSV)](data/exports/repo-index.csv)
+
+### API Endpoints
+When accessed through GitHub Pages:
+```
+# Complete repository data in JSON format
+https://danielrosehill.github.io/Github-Timeline/data/exports/repo-index.json
+
+# Category-specific repository lists
+https://danielrosehill.github.io/Github-Timeline/lists/categories/{category-name}.txt
+```
+
+### Documentation
+For detailed API documentation and usage examples:
+- [Interactive API Documentation](https://danielrosehill.github.io/Github-Timeline/)
+- [API Usage Examples](examples/api-usage.md)
+
+The data is automatically updated whenever the repository is updated."""
 
     # Write to README.md
     with open(os.path.join(project_root, 'README.md'), 'w') as f:
