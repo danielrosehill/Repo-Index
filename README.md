@@ -2,7 +2,7 @@
 
 ![Banner](banners/index.png)
 
-*Last updated: 2025-02-23 17:28:29*
+*Last updated: 2025-02-23 17:31:32*
 
 This is an automatically generated index of my public GitHub repositories.
 
@@ -20,26 +20,26 @@ Browse repositories by their type:
 
 | Type | Type |
 |----------|----------|
-| [![Created CLIs](https://img.shields.io/badge/Created_CLIs-0D47A1?style=for-the-badge&logo=github)](sections/created-clis.md) | [![Ideas Indexes](https://img.shields.io/badge/Ideas_Indexes-0D47A1?style=for-the-badge&logo=github)](sections/ideas-indexes.md) |
+| [![Created CLIs](https://img.shields.io/badge/Created_CLIs-0D47A1?style=for-the-badge&logo=github)](sections/created-clis.md) | [![Indexes](https://img.shields.io/badge/Indexes-0D47A1?style=for-the-badge&logo=github)](sections/indexes.md) |
 | [![Created GUIs](https://img.shields.io/badge/Created_GUIs-0D47A1?style=for-the-badge&logo=github)](sections/created-guis.md) | [![Lists](https://img.shields.io/badge/Lists-0D47A1?style=for-the-badge&logo=github)](sections/lists.md) |
 | [![Documentation](https://img.shields.io/badge/Documentation-0D47A1?style=for-the-badge&logo=github)](sections/documentation.md) | [![Templates](https://img.shields.io/badge/Templates-0D47A1?style=for-the-badge&logo=github)](sections/templates.md) |
 | [![Experiments](https://img.shields.io/badge/Experiments-0D47A1?style=for-the-badge&logo=github)](sections/experiments.md) | [![Streamlit Apps](https://img.shields.io/badge/Streamlit_Apps-0D47A1?style=for-the-badge&logo=github)](sections/streamlit-apps.md) |
 | [![Forks](https://img.shields.io/badge/Forks-0D47A1?style=for-the-badge&logo=github)](sections/forks.md) | [![Data](https://img.shields.io/badge/Data-0D47A1?style=for-the-badge&logo=github)](sections/data.md) |
+| [![Ideas](https://img.shields.io/badge/Ideas-0D47A1?style=for-the-badge&logo=github)](sections/ideas.md) |  |
 
 ### 3. Category Index
 The category index organizes repositories by their primary function or topic. Each category below contains a curated list of related projects:
 
 | Category | Category |
 |----------|----------|
-| [![Assistants](https://img.shields.io/badge/Assistants-2ea44f?style=for-the-badge&logo=github)](sections/assistants.md) | [![Linux](https://img.shields.io/badge/Linux-2ea44f?style=for-the-badge&logo=github)](sections/linux.md) |
-| [![Backups](https://img.shields.io/badge/Backups-2ea44f?style=for-the-badge&logo=github)](sections/backups.md) | [![Llm](https://img.shields.io/badge/Llm-2ea44f?style=for-the-badge&logo=github)](sections/llm.md) |
-| [![Context Rag](https://img.shields.io/badge/Context_Rag-2ea44f?style=for-the-badge&logo=github)](sections/context-rag.md) | [![Obsidian](https://img.shields.io/badge/Obsidian-2ea44f?style=for-the-badge&logo=github)](sections/obsidian.md) |
-| [![Demos](https://img.shields.io/badge/Demos-2ea44f?style=for-the-badge&logo=github)](sections/demos.md) | [![Opensuse](https://img.shields.io/badge/Opensuse-2ea44f?style=for-the-badge&logo=github)](sections/opensuse.md) |
-| [![Emissions](https://img.shields.io/badge/Emissions-2ea44f?style=for-the-badge&logo=github)](sections/emissions.md) | [![Prompt Libraries](https://img.shields.io/badge/Prompt_Libraries-2ea44f?style=for-the-badge&logo=github)](sections/prompt-libraries.md) |
-| [![Home Assistant](https://img.shields.io/badge/Home_Assistant-2ea44f?style=for-the-badge&logo=github)](sections/home-assistant.md) | [![Scaffolders](https://img.shields.io/badge/Scaffolders-2ea44f?style=for-the-badge&logo=github)](sections/scaffolders.md) |
-| [![Ideas](https://img.shields.io/badge/Ideas-2ea44f?style=for-the-badge&logo=github)](sections/ideas.md) | [![Utilities](https://img.shields.io/badge/Utilities-2ea44f?style=for-the-badge&logo=github)](sections/utilities.md) |
-| [![Indexes](https://img.shields.io/badge/Indexes-2ea44f?style=for-the-badge&logo=github)](sections/indexes.md) | [![Voice](https://img.shields.io/badge/Voice-2ea44f?style=for-the-badge&logo=github)](sections/voice.md) |
-| [![Israel](https://img.shields.io/badge/Israel-2ea44f?style=for-the-badge&logo=github)](sections/israel.md) |  |
+| [![Assistants](https://img.shields.io/badge/Assistants-2ea44f?style=for-the-badge&logo=github)](sections/assistants.md) | [![Llm](https://img.shields.io/badge/Llm-2ea44f?style=for-the-badge&logo=github)](sections/llm.md) |
+| [![Backups](https://img.shields.io/badge/Backups-2ea44f?style=for-the-badge&logo=github)](sections/backups.md) | [![Obsidian](https://img.shields.io/badge/Obsidian-2ea44f?style=for-the-badge&logo=github)](sections/obsidian.md) |
+| [![Context Rag](https://img.shields.io/badge/Context_Rag-2ea44f?style=for-the-badge&logo=github)](sections/context-rag.md) | [![Opensuse](https://img.shields.io/badge/Opensuse-2ea44f?style=for-the-badge&logo=github)](sections/opensuse.md) |
+| [![Demos](https://img.shields.io/badge/Demos-2ea44f?style=for-the-badge&logo=github)](sections/demos.md) | [![Prompt Libraries](https://img.shields.io/badge/Prompt_Libraries-2ea44f?style=for-the-badge&logo=github)](sections/prompt-libraries.md) |
+| [![Emissions](https://img.shields.io/badge/Emissions-2ea44f?style=for-the-badge&logo=github)](sections/emissions.md) | [![Scaffolders](https://img.shields.io/badge/Scaffolders-2ea44f?style=for-the-badge&logo=github)](sections/scaffolders.md) |
+| [![Home Assistant](https://img.shields.io/badge/Home_Assistant-2ea44f?style=for-the-badge&logo=github)](sections/home-assistant.md) | [![Utilities](https://img.shields.io/badge/Utilities-2ea44f?style=for-the-badge&logo=github)](sections/utilities.md) |
+| [![Israel](https://img.shields.io/badge/Israel-2ea44f?style=for-the-badge&logo=github)](sections/israel.md) | [![Voice](https://img.shields.io/badge/Voice-2ea44f?style=for-the-badge&logo=github)](sections/voice.md) |
+| [![Linux](https://img.shields.io/badge/Linux-2ea44f?style=for-the-badge&logo=github)](sections/linux.md) |  |
 
 ## Data Access & API
 

@@ -9,7 +9,7 @@ def generate_project_type_badges():
     """Generate badges for project types in a markdown table."""
     project_types = [
         "Created CLIs", "Created GUIs", "Documentation", "Experiments",
-        "Forks", "Ideas Indexes", "Lists", "Templates", "Streamlit Apps",
+        "Forks", "Ideas", "Indexes", "Lists", "Templates", "Streamlit Apps",
         "Data"
     ]
     
@@ -45,7 +45,7 @@ def generate_readme():
     sections_dir = os.path.join(project_root, 'sections')
     type_categories = {
         'created-clis.md', 'created-guis.md', 'documentation.md', 
-        'experiments.md', 'forks.md', 'ideas-indexes.md', 'lists.md', 
+        'experiments.md', 'forks.md', 'ideas.md', 'indexes.md', 'lists.md', 
         'templates.md', 'streamlit-apps.md', 'data.md'
     }
     section_files = sorted([f[:-3] for f in os.listdir(sections_dir) 
