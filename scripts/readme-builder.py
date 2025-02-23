@@ -79,7 +79,7 @@ When accessed through GitHub Pages:
 https://danielrosehill.github.io/Github-Timeline/data/exports/repo-index.json
 
 # Category-specific repository lists
-https://danielrosehill.github.io/Github-Timeline/lists/categories/{category-name}.txt
+https://danielrosehill.github.io/Github-Timeline/lists/categories/{{category-name}}.txt
 ```
 
 ### Documentation

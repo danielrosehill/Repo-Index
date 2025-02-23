@@ -108,6 +108,7 @@ Israel-To-ROW-Salary-Converter-V2
 Israeli-Google-Drive-Accounting-Doc-Router
 Jerusalem-Public-Shelters
 Jewish-Sabbaths-Holidays
+Just-Ask-Corn
 Just-Some-AI-App-Ideas
 LLM-API-Key-Manager
 LLM-API-Price-Estimates
@@ -214,6 +215,7 @@ Taxonomy-Generators
 Tech-Ideas
 Test-Markdown-Docs
 Testing-Repo-Public
+Thought-Pad
 Tool-Searches
 Two-AIs-Talk
 USB-Foot-Mouse-Linux

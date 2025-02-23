@@ -1,4 +1,6 @@
 name,pretty_name,description,url,is_fork,created_at
+Just-Ask-Corn,Just Ask Corn,Friendly general purpose AI assistant (Linux desktop),https://github.com/danielrosehill/Just-Ask-Corn,False,2025-02-23T14:01:42Z
+Thought-Pad,Thought Pad,A two stage desktop application for capturing thoughts using speech to text,https://github.com/danielrosehill/Thought-Pad,False,2025-02-23T12:35:55Z
 Github-Master-Index,Github Master Index,A repository that indexes my Github projects,https://github.com/danielrosehill/Github-Master-Index,False,2025-02-22T18:49:30Z
 Reddit-Posts,Reddit Posts,Things I've posted on Reddit and which are copied here so that they can be ingested as context for various AI workflows,https://github.com/danielrosehill/Reddit-Posts,False,2025-02-22T18:30:29Z
 OpenWebUI-Macro-Keypad,Openwebui Macro Keypad,WIP idea. Macro keypad config for OpenWebUI shortcuts,https://github.com/danielrosehill/OpenWebUI-Macro-Keypad,False,2025-02-20T23:56:35Z

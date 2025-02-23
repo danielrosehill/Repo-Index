@@ -2,6 +2,20 @@
 
 # 2025
 
+## 23 Feb
+
+**Just Ask Corn**
+
+Friendly general purpose AI assistant (Linux desktop)
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Just-Ask-Corn)
+
+**Thought Pad**
+
+A two stage desktop application for capturing thoughts using speech to text
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Thought-Pad)
+
 ## 22 Feb
 
 **Github Master Index**

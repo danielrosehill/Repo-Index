@@ -1,5 +1,21 @@
 [
   {
+    "name": "Just-Ask-Corn",
+    "pretty_name": "Just Ask Corn",
+    "description": "Friendly general purpose AI assistant (Linux desktop)",
+    "url": "https://github.com/danielrosehill/Just-Ask-Corn",
+    "is_fork": false,
+    "created_at": "2025-02-23T14:01:42Z"
+  },
+  {
+    "name": "Thought-Pad",
+    "pretty_name": "Thought Pad",
+    "description": "A two stage desktop application for capturing thoughts using speech to text",
+    "url": "https://github.com/danielrosehill/Thought-Pad",
+    "is_fork": false,
+    "created_at": "2025-02-23T12:35:55Z"
+  },
+  {
     "name": "Github-Master-Index",
     "pretty_name": "Github Master Index",
     "description": "A repository that indexes my Github projects",
