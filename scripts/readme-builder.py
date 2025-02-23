@@ -5,12 +5,49 @@ import math
 # Get the project root directory (parent of scripts directory)
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+def generate_project_type_badges():
+    """Generate badges for project types in a markdown table."""
+    project_types = [
+        "Created CLIs", "Created GUIs", "Documentation", "Experiments",
+        "Forks", "Ideas Indexes", "Lists", "Templates", "Streamlit Apps",
+        "Data"
+    ]
+    
+    table = ['| Type | Type |', '|----------|----------|']
+    rows = math.ceil(len(project_types) / 2)
+    
+    for i in range(0, rows):
+        row = []
+        # First column
+        display_name = project_types[i]
+        badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-0D47A1?style=for-the-badge&logo=github)](lists/types/{display_name.lower().replace(" ", "-")}.txt)'
+        row.append(badge)
+        
+        # Second column
+        second_idx = i + rows
+        if second_idx < len(project_types):
+            display_name = project_types[second_idx]
+            badge = f'[![{display_name}](https://img.shields.io/badge/{display_name.replace(" ", "_")}-0D47A1?style=for-the-badge&logo=github)](lists/types/{display_name.lower().replace(" ", "-")}.txt)'
+            row.append(badge)
+        else:
+            row.append('')
+            
+        table.append(f'| {row[0]} | {row[1]} |')
+    
+    return '\n'.join(table)
+
 def generate_readme():
     """Generate a simplified README with links to timeline and section indexes."""
     
-    # Get list of section files
+    # Get list of section files and filter out the ones that are now in types
     sections_dir = os.path.join(project_root, 'sections')
-    section_files = sorted([f[:-3] for f in os.listdir(sections_dir) if f.endswith('.md')])
+    type_categories = {
+        'created-clis.md', 'created-guis.md', 'documentation.md', 
+        'experiments.md', 'forks.md', 'ideas-indexes.md', 'lists.md', 
+        'templates.md', 'streamlit-apps.md', 'data.md'
+    }
+    section_files = sorted([f[:-3] for f in os.listdir(sections_dir) 
+                          if f.endswith('.md') and f not in type_categories])
     
     # Generate section badges in a proper markdown table
     # 2 columns for better readability
@@ -40,6 +77,9 @@ def generate_readme():
     # Get current timestamp
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
+    # Generate project type badges
+    project_type_table = generate_project_type_badges()
+
     # Generate README content
     readme_content = f"""# Daniel Rosehill Github Repository Index
 
@@ -58,7 +98,12 @@ This index provides two ways to explore my GitHub repositories:
 
 The timeline provides a chronological view of all repositories, showing when each project was created and its current status. This is useful for seeing how my work and interests have evolved over time.
 
-### 2. Category Index
+### 2. Projects By Type
+Browse repositories by their type:
+
+{project_type_table}
+
+### 3. Category Index
 The category index organizes repositories by their primary function or topic. Each category below contains a curated list of related projects:
 
 {chr(10).join(section_table)}
@@ -89,8 +134,9 @@ For detailed API documentation and usage examples:
 
 The data is automatically updated whenever the repository is updated."""
 
-    # Write to README.md
-    with open(os.path.join(project_root, 'README.md'), 'w') as f:
+    # Write README to file
+    readme_path = os.path.join(project_root, 'README.md')
+    with open(readme_path, 'w') as f:
         f.write(readme_content)
 
 if __name__ == '__main__':
