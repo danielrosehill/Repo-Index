@@ -2,7 +2,7 @@
 
 ![Banner](banners/index.png)
 
-*Last updated: 2025-02-23 17:31:32*
+*Last updated: 2025-02-24 17:49:22*
 
 This is an automatically generated index of my public GitHub repositories.
 
@@ -39,7 +39,7 @@ The category index organizes repositories by their primary function or topic. Ea
 | [![Emissions](https://img.shields.io/badge/Emissions-2ea44f?style=for-the-badge&logo=github)](sections/emissions.md) | [![Scaffolders](https://img.shields.io/badge/Scaffolders-2ea44f?style=for-the-badge&logo=github)](sections/scaffolders.md) |
 | [![Home Assistant](https://img.shields.io/badge/Home_Assistant-2ea44f?style=for-the-badge&logo=github)](sections/home-assistant.md) | [![Utilities](https://img.shields.io/badge/Utilities-2ea44f?style=for-the-badge&logo=github)](sections/utilities.md) |
 | [![Israel](https://img.shields.io/badge/Israel-2ea44f?style=for-the-badge&logo=github)](sections/israel.md) | [![Voice](https://img.shields.io/badge/Voice-2ea44f?style=for-the-badge&logo=github)](sections/voice.md) |
-| [![Linux](https://img.shields.io/badge/Linux-2ea44f?style=for-the-badge&logo=github)](sections/linux.md) |  |
+| [![Linux](https://img.shields.io/badge/Linux-2ea44f?style=for-the-badge&logo=github)](sections/linux.md) | [![Wrappers](https://img.shields.io/badge/Wrappers-2ea44f?style=for-the-badge&logo=github)](sections/wrappers.md) |
 
 ## Data Access & API
 

@@ -2,17 +2,19 @@
 
 # 2025
 
+## 24 Feb
+
+**Homebox Desktop Wrapper Appimage**
+
+Linux Electron desktop wrapper for Homebox
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Homebox-Desktop-Wrapper-AppImage)
+
 ## 23 Feb
-
-**Just Ask Corn**
-
-Friendly general purpose AI assistant (Linux desktop)
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Just-Ask-Corn)
 
 **Thought Pad**
 
-A two stage desktop application for capturing thoughts using speech to text
+Linux desktop application that provides a two-stage process for creating notes from dictated speech (first stage, transcription via Whisper API; second stage light text formatting). Exports to markdown docs.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/danielrosehill/Thought-Pad)
 

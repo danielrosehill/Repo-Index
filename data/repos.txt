@@ -90,6 +90,7 @@ Home-Assistant-Smoke-Alarm-Config
 Home-Assistant-YAML-Snippets
 Home-Assistant-YomTov-Shabbat-0125
 Home-Assistant-snippets
+Homebox-Desktop-Wrapper-AppImage
 Homebox-Ideas
 Homepage
 How-To-Guides
@@ -108,7 +109,6 @@ Israel-To-ROW-Salary-Converter-V2
 Israeli-Google-Drive-Accounting-Doc-Router
 Jerusalem-Public-Shelters
 Jewish-Sabbaths-Holidays
-Just-Ask-Corn
 Just-Some-AI-App-Ideas
 LLM-API-Key-Manager
 LLM-API-Price-Estimates

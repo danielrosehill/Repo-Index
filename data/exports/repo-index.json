@@ -1,16 +1,16 @@
 [
   {
-    "name": "Just-Ask-Corn",
-    "pretty_name": "Just Ask Corn",
-    "description": "Friendly general purpose AI assistant (Linux desktop)",
-    "url": "https://github.com/danielrosehill/Just-Ask-Corn",
+    "name": "Homebox-Desktop-Wrapper-AppImage",
+    "pretty_name": "Homebox Desktop Wrapper Appimage",
+    "description": "Linux Electron desktop wrapper for Homebox",
+    "url": "https://github.com/danielrosehill/Homebox-Desktop-Wrapper-AppImage",
     "is_fork": false,
-    "created_at": "2025-02-23T14:01:42Z"
+    "created_at": "2025-02-24T15:07:02Z"
   },
   {
     "name": "Thought-Pad",
     "pretty_name": "Thought Pad",
-    "description": "A two stage desktop application for capturing thoughts using speech to text",
+    "description": "Linux desktop application that provides a two-stage process for creating notes from dictated speech (first stage, transcription via Whisper API; second stage light text formatting). Exports to markdown docs.",
     "url": "https://github.com/danielrosehill/Thought-Pad",
     "is_fork": false,
     "created_at": "2025-02-23T12:35:55Z"
